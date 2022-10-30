@@ -2,7 +2,7 @@
 **/*.ipynb_checkpoints/
 **/__pycache__
 .vscode
-.env
+Token.env
 README.md
-
+unused_functions.py
 

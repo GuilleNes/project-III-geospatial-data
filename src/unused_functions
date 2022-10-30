@@ -1,0 +1,22 @@
+
+
+def clean_results(df_):
+    new_list = []
+    for i in df_["results"]:
+        name = i["name"]
+        address =  i["location"]["formatted_address"]
+        lat = i["geocodes"]["main"]["latitude"]
+        lon = i["geocodes"]["main"]["longitude"]
+        neighborhood = i["location"]['neighborhood'][0]   
+        type_ = {"typepoint": 
+                            {"type": "Point", 
+                            "coordinates": [lat, lon]}}
+        new_list.append({"name":name, "address": address, 'neighborhood': neighborhood, "lat":lat, "lon":lon, "type":type_})
+    
+    return pd.DataFrame(new_list)
+
+
+def add_company(dfr, address, neigh, lat, lon):
+    new_row = {'name': "Company",'address': address,'neighborhood': neigh,'lat': lat,"lon": lon,
+    "type": {"typepoint": {"type": "Point","coordinates": [lat, lon]}}}
+    return dfr.append(new_row,ignore_index=True)

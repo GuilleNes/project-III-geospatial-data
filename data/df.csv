@@ -1,386 +1,201 @@
-name,number_of_employees,Country,Zip_code,City,Address,Lat,Long
-Facebook,5299,USA,94025,Menlo Park,1601 Willow Road,37.41605,-122.151801
-Twitter,1300,USA,94103,San Francisco,1355 Market St.,37.7768052,-122.4169244
-eBay,15000,USA,95125,San Jose,2145 Hamilton Avenue,37.295005,-121.930035
-Cisco,63000,USA,95134,San Jose,170 West Tasman Dr.,37.408802,-121.95377
-Yahoo!,13600,USA,94089,Sunnyvale,701 First Avenue,37.418531,-122.025485
-AddThis,120,USA,22182,Vienna,1595 Spring Hill Road,38.926172,-77.245195
-OpenX,305,USA,91101,Pasadena,888 East Walnut Street,34.1494713,-118.1327468
-LifeLock,644,USA,85281,Tempe,"60 E. Rio Salado Pkwy, Suite 400",33.429859,-111.938739
-Google,28000,USA,,Mountain View,1600 Amphitheatre Parkway,37.421972,-122.084143
-Jajah,110,USA,94043,Mountain View,2513 Charleston Road,37.4233896,-122.0899512
-Livestream,120,USA,10011,New York,"111 8th Avenue, #1509",40.726155,-73.995625
-Ustream,250,USA,94107,San Francisco,410 Townsend,37.392936,-122.07948
-Yelp,800,USA,94103,San Francisco,706 Mission Street,37.786183,-122.402195
-RockYou,106,USA,94063,Redwood City,585 Broadway,37.484619,-122.206893
-Meebo,200,USA,94041,Mountain View,215 Castro Street,37.393679,-122.079017
-Eventbrite,200,USA,94107,San Francisco,651 Brannan,37.779507,-122.39071
-LinkedIn,4800,USA,94043,Mountain View,2029 Stierlin Ct,37.423258,-122.073635
-Box,950,USA,94022,Los Altos,4440 El Camino Real,37.425801,-122.143701
-Conduit,215,USA,94404,Foster City,950 Tower Lane,37.561877,-122.325248
-Redfin,100,USA,98121,Seattle,2025 1st Ave,47.603122,-122.333253
-oDesk,120,USA,94063,Redwood City,901 Marshall Street,37.479952,-122.178557
-Simply Hired,100,USA,94085,Sunnyvale,370 San Aleso Ave,37.4219165,-122.0780632
-Spreadshirt,230,USA,15222,Pittsburgh,211 Fort Pitt Blvd,40.437985,-80.004195
-Bazaarvoice,600,USA,78746,Austin,3900 N Capital of Texas Hwy,30.407545,-97.717667
-spigit,120,USA,94566,Pleasanton,311 Ray Street,37.6637279,-121.8731805
-PowerReviews,120,USA,94103,San Francisco,22 4th Street,37.779558,-122.393041
-hi5,100,USA,94105,San Francisco,55 Second Street,37.788668,-122.400558
-Tagged,162,USA,94119-3152,San Francisco,P.O. Box 193152,37.7753,-122.4186
-NetSuite,1600,USA,94403,San Mateo,"2955 Campus Drive, Suite 100",37.536172,-122.327323
-Adobe Systems,7173,USA,,San Jose,,37.320052,-121.877636
-PayScale,130,USA,98104,Seattle,542 First Ave South,47.5999337,-122.3276962
-Brightcove,220,USA,02142,Cambridge,One Cambridge Center,42.362993,-71.086596
-Hightail,200,USA,95008,Campbell,1919 S Bascom Ave,37.288974,-121.935688
-Nimbuzz,140,NLD,2909 LK,Capelle a/d IJssel,301 Rivium Boulevard,51.9122575,4.5464658
-PayPal,300000,USA,95125,San Jose,2145 E Hamilton Ave,37.294465,-121.927696
-AOL,8000,USA,10003,New York,770 Broadway,40.7311317,-73.9919311
-IMVU,150,USA,94041,Mountain View,200 West Evelyn Ave.,37.3927975,-122.0727749
-Dropbox,350,USA,94107,San Francisco,,37.7909427,-122.4084994
-KIT digital,200,USA,10011,New York,26 W 17th Street,40.751816,-73.971655
-BlueLithium,135,USA,95128,San Jose,"3055 Olin Avenue, Suite 2200",37.32052,-121.948399
-ZoomInfo,800,USA,02452,Waltham,307 Waverley Oaks Road,42.38532,-71.207055
-Zappos,1500,USA,,Henderson,,36.032976,-115.064859
-Zango,225,USA,98006,Bellevue,3600 136th Place SE,47.579208,-122.155668
-ReachLocal,1700,GBR,,London,2 Queen Caroline St.,41.53155,-72.188584
-Trulia,500,USA,94501,San Francisco,116 New Montgomery,37.766909,-122.406676
-TubeMogul,230,USA,94608,Emeryville,1250 53rd St.,37.836957,-122.286493
-OpenTable,550,USA,,San Francisco,One Montgomery,37.785647,-122.405265
-Adknowledge,300,USA,64112,Kansas City,"4600 Madison Ave., 10th Floor",39.044694,-94.597896
-ChannelAdvisor,300,USA,27560,Morrisville,2701 Aerial Center Parkway,35.854483,-78.815635
-Ooyala,300,USA,94040,Mountain View,800 West El Camino Real,37.386665,-122.084171
-hulu,153,USA,90064,Los Angeles,12312 W. Olympic Blvd.,34.031276,-118.456806
-PubMatic,380,USA,94063,Redwood City,305 Main Street,37.446668,-122.156579
-Clickable,160,USA,10010,New York,7 West 22nd Street,40.7413559,-73.9912208
-mig33,100,SGP,179098,Singapore,111 North Bridge Road,37.580304,-122.343679
-Mozilla,800,USA,94041,Mountain View,650 Castro Street,37.418491,-122.08744
-Zillow,600,USA,98101,Seattle,,47.6011125,-122.3293984
-Moz,130,USA,98101,Seattle,"119 Pine Street, Suite 400",47.620716,-122.347533
-Zimbra,200,USA,94304,Palo Alto,3401 Hillview Avenue,37.557637,-122.285714
-Wamba,120,null,null,null,null,null,null
-Fon,100,ESP,28050,Madrid,Calle Quintanavides 15,40.530724,-3.632687
-Blurb,150,USA,94104,San Francisco,580 California St.,37.792968,-122.40414
-The Climate Corporation,150,USA,94103,San Francisco,201 Third Street,37.782809,-122.394354
-Automattic,200,USA,94107,San Francisco,132 Hawthorne St,37.744274,-122.421344
-uTest,120,USA,01710,Framingham,100 Pennsylvania Ave,42.288291,-71.52679
-Payoneer,200,USA,10022,New York,410 Park Avenue - 15th Floor,40.621591,-73.960717
-Shopatron,166,USA,93403,San Luis Obispo,"825 Buckley Road, Suite 200",37.09024,-95.712891
-EchoSign,100,USA,94301,Palo Alto,"555 Bryant Street, #101",37.445326,-122.160671
-TrialPay,100,USA,94041,Mountain View,303 Bryant St.,37.388095,-122.08276
-Firetide,100,USA,95008,Campbell,2105 South Bascom Avenue,37.285133,-121.932962
-Gigya,230,USA,94043,Mountain View,2513 E. Charleston Rd.,37.43938,-122.158804
-MyBuys,120,USA,94402,San Mateo,"411 Borel Avenue, Ste. 100",37.530893,-122.245087
-Zecco,110,null,null,null,null,null,null
-Omniture,1000,USA,84097,Orem,550 East Timpanogos Circle,40.323902,-111.68192
-Vobile,120,USA,95054,Santa Clara,"4699 Old Ironsides Drive, Ste 430",37.399208,-121.97895
-Verimatrix,100,USA,92121,San Diego,6825 Flanders Drive,32.903248,-117.175733
-Blyk,100,FIN,00100,Helsinki,Mikonkatu 17 B,52.146853,-1.721287
-Splunk,500,USA,94107,San Francisco,250 Brannan St.,37.78274,-122.390945
-TrustedID,120,USA,94306,Palo Alto,395 Page Mill Road,37.520592,-122.255907
-Yodle,1000,USA,10010,New York,50 West 23rd Street,40.742459,-73.9918126
-Deezer,200,FRA,75009,Paris,"12, rue d'Athenes",48.8780596,2.3283853
-HubSpot,650,USA,02141,Cambridge,25 First St.,42.375392,-71.118487
-Viadeo,400,FRA,75009,Paris,30 Rue de la Victoire,48.8747064,2.3304161
-GrubHub,250,USA,60602,Chicago,111 W. Washington St.,41.907647,-87.649878
-Deem,400,USA,94105,San Francisco,301 Howard Street,37.559836,-122.271532
-CDNetworks,350,USA,CA 95134,San Jose,441 W. Trimble Road,37.4050988,-121.9477639
-KAYAK,101,USA,06854,Norwalk,55 N. Water Street,41.1010914,-73.4168779
-Acquia,400,USA,01803,Burlington,25 Corporate Drive,42.524527,-71.137784
-Etsy,300,USA,11201,Brooklyn,55 Washington St.,40.694731,-73.983268
-Tesla Motors,500,USA,94304,Palo Alto,3500 Deer Creek rd.,37.496737,-122.245323
-SuccessFactors,1200,USA,94404,San Mateo,1500 Fashion Island Blvd. Suite 300,37.557637,-122.285714
-fabrik,175,USA,94402,San Mateo,"1825 South Grant St., Suite 200",37.553743,-122.300246
-Oversee,150,USA,90071,Los Angeles,515 S. Flower Street Suite 4400,34.051368,-118.256305
-Zynga,115,USA,94103,San Francisco,365 Vermont St.,37.765158,-122.404234
-XING,500,DEU,20354,Hamburg,Dammtorstrasse 29-32,53.555554,9.98793
-Endeca,500,USA,02142,Cambridge,101 Main Street,42.36233,-71.081527
-BreakingPoint Systems,109,USA,78746,Austin,3900 N. Capital of Texas Highway,30.384453,-97.709809
-TheLadders,110,USA,10013,New York,137 Varick Street,40.725883,-74.006196
-Netflix,2000,USA,95032,Los Gatos,100 Winchester Circle,37.25142,-121.968687
-Social Gaming Network,100,USA,90035,Los Angeles,9570 W. Pico Blvd 3rd Floor,37.446823,-122.161523
-Coverity,300,USA,94107,San Francisco,185 Berry Street,37.7759675,-122.3931128
-Exalead,150,FRA,75008,Paris,10 place de la madeleine,48.86931,2.324782
-AdoTube,160,USA,10010,New York,915 Broadway,40.752672,-73.97593
-Grooveshark,113,USA,32601,Gainesville,201 SE 2nd Ave Ste. 209,29.6502461,-82.3230981
-Evernote,280,USA,94063,Redwood City,305 Walnut St,37.386774,-121.987661
-Intuit,8000,USA,94043,Mountain View,2632 Marine Way,37.428373,-122.097604
-Covario,100,USA,92130,San Diego,3611 Valley Centre Drive,32.912063,-117.114827
-Flurry,150,USA,94107,San Francisco,360 3rd Street,37.783046,-122.394067
-Boonty,150,USA,10013,New York,54 Franklin Street,40.717248,-74.002662
-99designs,100,USA,94111,San Francisco,447 Battery St.,37.7955307,-122.4005983
-Elance,100,USA,94043,Mountain View,441 Logue Avenue,37.398022,-122.049143
-LiveRail,110,USA,94105,San Francisco,575 Market St.,37.787183,-122.397759
-OpenDNS,200,USA,94107,San Francisco,145 Bluxome,37.789268,-122.395184
-Kareo,250,USA,92612,Irvine,3353 Michelson,33.676444,-117.8587
-Vovici,100,USA,20166,Dulles,"45365 Vintage Park Plaza, Suite 250",38.983393,-77.434128
-PacketFront,170,SWE,,Stockholm,,59.332788,18.064488
-LiveOps,320,USA,95051,Santa Clara,5425 Stevens Creek Blvd.,37.323668,-122.004204
-Workday,900,USA,94588,Pleasanton,6230 Stoneridge Mall Road,37.694202,-121.921532
-Clarizen,110,USA,94403,San Mateo,"2988 Campus Drive,",37.536044,-122.328401
-Next New Networks,121,USA,10010,New York,22 W 21st St,40.743808,-73.983626
-FriendFinder Networks,350,MYS,56100,Boca Raton,6800 Broken Sound Parkway,26.4074809,-80.1169895
-Zuora,250,USA,94404,Foster City,1051 East Hillsdale Boulevard,37.5596277,-122.2709868
-Voltage Security,120,USA,95014,Cupertino,20400 Stevens Creek Blvd.,37.399481,-122.1345417
-InMage Systems,150,USA,95112,San Jose,100 Century Center Court,37.381034,-121.971487
-ScanCafe,350,USA,94010,Burlingame,1475 Rollins Road,37.592584,-122.369676
-Cvent,800,USA,22102,McLean,8180 Greensboro Dr.,38.923453,-77.227525
-Zend Technologies,130,USA,95014,Cupertino,19200 Stevens Creek Blvd.,37.322385,-122.008549
-Location Labs,220,USA,94608,Emeryville,5980 Horton St Suite 675,37.83466,-122.291944
-OrangeSoda,160,USA,84003,American Fork,732 Utah Valley Dr,40.358294,-111.780243
-Networked Insights,130,USA,53703,Madison,33 E Main Street,41.278528,-72.5254318
-Magento,275,USA,,Los Angeles,,34.052187,-118.243425
-babbel,205,DEU,10961,Berlin,Bergmannstr. 5,52.4897,13.38861
-Parature,100,USA,20171,Herndon,13625 –B Dulles Technology Drive,38.912791,-77.220048
-7digital,120,GBR,EC2A 2BB,London,69 Wilson Sreet,51.5254,-0.083726
-Wikimedia Foundation,143,USA,94105,San Francisco,149 New Montgomery St.,37.76785,-122.392839
-Clearwell Systems,210,USA,94043,Mountain View,441 Logue Ave.,37.398022,-122.049143
-BlueCat Networks,120,CAN,M2P 2C9,Toronto,4101 Yonge Street,43.746327,-79.407214
-Glassdoor,180,USA,94965,Sausalito,1 Harbor Drive,37.868002,-122.500111
-Red Bend Software,100,USA,02451,Waltham,"400-1 Totten Pond Road, Suite 130",42.389795,-71.239286
-Realtime Worlds,225,GBR,,Dundee,,56.461428,-2.968111
-Marketo,260,USA,94404,San Mateo,901 Mariners Island Blvd,37.5583,-122.301385
-Bonobos,150,USA,10011,New York,45 West 25th Street,40.7384997,-73.9954585
-Edmodo,100,USA,94401,San Mateo,"60 E. Third Ave., #390",41.857915,-88.321171
-Avisena,220,USA,33126,Miami,6100 Blue Lagoon Dr.,25.782058,-80.296794
-Cellfish,220,USA,10016,New York,215 Lexington Avenue,40.761855,-73.983754
-eSolar,140,USA,91103,Pasadena,130 West Union Street,34.146436,-118.153136
-Huddle,200,GBR,EC1Y 2BP,London,"1st Floor, Transworld House,",51.4999065,-0.0814873
-iRise,150,USA,90245,El Segundo,2321 Rosecrans Ave.,33.9019812,-118.3812173
-RichRelevance,250,USA,94107,San Francisco,633 Folsom St.,37.7938969,-122.4000965
-PixelCrayons,200,USA,10003,New York,228 Park Ave S # 25950,28.682042,77.087502
-Comcast,100000,USA,19103,Philadelphia,1701 JFK Blvd,39.9525762,-75.1652518
-SquareTrade,190,USA,94105,San Francisco,575 Market Street,37.789551,-122.40036
-Mojiva,105,USA,10013,New York,136 Baxter St,40.7185614,-73.998662
-GitHub,106,USA,94107,San Francisco,275 Brannan St.,37.775196,-122.419204
-Texas Instruments,30175,USA,75243,Dallas,12500 TI Boulevard,32.9181382,-96.7529161
-Globant,2800,ARG,C1001AFB,Buenos Aires,Ingeniero Butty 240 6Â° floor,-34.5967236,-58.3708904
-Daptiv,150,USA,98104,Seattle,1008 Western Avenue,47.604279,-122.337437
-Wayfair,800,USA,02115,Boston,177 Huntington Ave,42.348691,-71.082523
-BuildDirect,100,CAN,V6C 3G9,Vancouver,717 West Pender St.,49.283935,-123.11593
-Modern Feed,123,USA,90038,Los Angeles,818 N. La Brea Ave.,34.085749,-118.343791
-Tealeaf,100,USA,94105,San Francisco,45 Fremont St.,37.791242,-122.397133
-Spotify,5000,LUX,,Luxembourg,22 av. Marie-ThÃ©rÃ¨se,49.607295,6.121511
-Adify,120,USA,94066,San Bruno,"1000 Cherry Avenue, Suite 200",37.629393,-122.424975
-InvenSense,400,USA,95110,San Jose,1745 Technology Dr,37.407445,-122.019405
-Kabam,650,USA,94107,San Francisco,795 Folsom Street,37.3944561,-122.0785314
-Turbine,200,USA,,Westwood,"60 Glacier Drive, Suite 4000",42.214483,-71.185964
-Velocify,125,USA,90245,El Segundo,222 N. Sepulveda Blvd.,33.9192583,-118.3952969
-PatientsLikeMe,200,USA,02141,Cambridge,155 Second Street,42.3674989,-71.0793952
-Talend,400,USA,94022,Los Altos,5150 El Camino Real,37.371908,-122.111711
-Autodesk,7800,USA,94903,San Rafael,111 McInnis Parkway,38.0062745,-122.5315665
-Efficient Frontier,200,USA,94089,Sunnyvale,809 Eleventh Avenue,37.4049731,-122.0323525
-[x+1],105,USA,10010,New York,315 Park Avenue South,40.7455068,-73.982624
-deviantART,120,USA,90028,Hollywood,7095 Hollywood Blvd #788,34.101578,-118.33334
-Knewton,145,USA,10011,New York,100 5th Avenue,40.7310476,-74.0078134
-AtHoc,150,USA,94403,San Mateo,2988 Campus Dr.,37.560747,-122.284001
-Acquity Group,500,USA,60606,Chicago,500 West Madison Street,41.881876,-87.639713
-Cloudmark,100,USA,94107,San Francisco,128 King Street,37.779507,-122.39071
-TRUSTe,130,USA,94103,San Francisco,835 Market Street,37.7886685,-122.4005576
-VMware,13500,USA,94304,Palo Alto,3401 Hillview Ave,37.403315,-122.145981
-Medallia,140,USA,94306,Palo Alto,395 Page Mill Rd.,37.4520239,-122.1797053
-Epic Advertising,105,USA,10018,New York,512 Seventh Avenue,40.753403,-73.989189
-Vindicia,100,USA,94002,Belmont,19 Davis Drive,37.538418,-122.252115
-WSO2,228,USA,94306,Palo Alto,"4131 El Camino Real,",37.390918,-122.080843
-ClickandBuy,240,DEU,50670,Cologne,Im Mediapark 5,50.947699,6.94205
-Rally Software,430,USA,80301,Boulder,3333 Walnut St,40.010295,-105.242005
-mindSHIFT Technologies,380,USA,02452,Waltham,309 Waverley Oaks Road,42.38532,-71.207055
-vLex,100,ESP,E08009,Barcelona,Consell de Cent 334,41.392852,2.168021
-Infusionsoft,350,USA,85286,Chandler,1260 S. Spectrum Blvd.,33.2871748,-111.8871813
-Practice Fusion,280,USA,94102,San Francisco,420 Taylor Street,37.7886717,-122.392725
-Bestofmedia Group,200,FRA,92150,Suresnes,26 avenue de Gaulle,48.8704095,2.2246339
-Optaros,200,USA,02108,Boston,10 Milk St.,42.356812,-71.058185
-NetSpend,300,USA,78768-2136,Austin,PO Box 2136,30.2667,-97.7428
-Intacct,150,USA,95113,San Jose,150 Almaden Blvd.,37.332948,-121.89053
-Making Sense,100,USA,78205,San Antonio,401 East Houston St,29.516352,-98.43676
-eEye,100,USA,92617,Irvine,111 Theory,33.64214,-117.855539
-Louis Vuitton,9671,FRA,75008,Paris,101 Avenue des Champs ElysÃ©es,48.871976,2.30069
-InsideView,150,USA,94107,San Francisco,444 De Haro Street,37.764169,-122.402021
-WideOrbit,350,USA,94111,San Francisco,1160 Battery,37.7895289,-122.3885899
-Blueprint Software Systems,100,CAN,M5C 2B8,Toronto,"20 Toronto Street, 11th Floor",43.65101,-79.381254
-Xerox,57400,USA,06856,Norwalk,45 Glover Avenue,41.256052,-82.616032
-VBS TV,100,USA,11211,Brooklyn,97 North Tenth Street,40.720764,-73.957968
-Talent Gurus,500,USA,77339,Houston,"2313 Timber Shadows Drive, Ste. 200",30.050837,-95.230789
-FusionOne,140,USA,95113,San Jose,55 Almaden Blvd.,37.333439,-121.895286
-MarkLogic,240,USA,94070,San Carlos,999 Skyway Road,37.506272,-122.246867
-Appian,215,USA,20190,Reston,1875 Explorer Street,38.912827,-77.220028
-Photobucket,100,USA,80205,Denver,"2399 Blake Street, Suite 160",47.601803,-122.332085
-Jedox,101,DEU,79098,Frieburg,Bismarckallee 7a,47.997186,7.853767
-Cleartrip,500,IND,400012,Mumbai,Unit No 001 Ground Fl DTC Bldg Sitaram Mills Compound,18.9978594,72.8367776
-Mendix,150,NLD,3024 EL,Rotterdam,Westzeedijk 487,51.9047086,4.4574464
-Troux Technologies,100,USA,78730,Austin,8601 FM 2222,30.381525,-97.810484
-thePlatform,130,USA,98104,Seattle,1000 2nd Avenue,47.617838,-122.356027
-plista,100,DEU,10119,Berlin,Torstraße 33-35,52.5283614,13.4124563
-MetaCarta,99999,USA,02139,Cambridge,350 Massachusetts Ave,42.36236,-71.099692
-Achievers,150,USA,94105,San Francisco,181 Fremont Street,43.637296,-79.425455
-Dot Com Infoway France,200,IND,600 102,Chennai,"""GNG House""",13.11352,80.152135
-BitDefender,800,USA,33309,Fort Lauderdale,"6301 NW 5th Way, Suite 3500",26.170422,-80.150794
-IDEO,500,USA,94301,Palo Alto,100 Forest Avenue,37.441971,-122.161151
-Zendesk,400,USA,94102,San Francisco,989 Market St,55.676294,12.568116
-Epocrates,300,USA,94403,San Mateo,1100 Park Place,37.544987,-122.291394
-Continuum,145,USA,02465,West Newton,1220 Washington Street,42.349239,-71.223834
-Message Systems,100,USA,21046,Columbia,7070 Samuel Morse Drive,39.169397,-76.811526
-QlikTech,600,USA,19087,Radnor,150 Radnor Chester Road,40.037578,-75.366299
-SAVO,130,USA,60606,Chicago,155 N Wacker Drive,41.87675,-87.640458
-Minted,115,USA,94111,San Francisco,747 Front Street,37.797435,-122.403175
-Appirio,500,USA,94102,San Francisco,760 Market Street,37.5552776,-122.2997532
-Qumu,150,USA,94066,San Bruno,1100 Grundy Lane,37.630551,-122.422113
-Black Duck Software,100,USA,02451,Waltham,265 Winter Street,42.398916,-71.253998
-Yatra online,1000,IND,122001,Gurgaon,Gorund Floor Tower A,28.4404308,77.0789194
-Prezi,110,HUN,1065,Budapest,Nagymező utca 54-56,47.490346,19.059078
-ngmoco,150,USA,94107,San Francisco,185 Berry Street,37.7705096,-122.4015807
-Vantage Media,150,USA,90245,El Segundo,2183 Rosecrans Avenue,33.902696,-118.387511
-OZ Communications,220,CAN,H3B 2S2,"Montreal, Quebec","Windsor Station, Suite 150",45.4965703,-73.5687974
-Koolanoo Group,280,CHN,100020,Beijing,"D/20F, The Place, #9 Guanghua Road",39.905556,116.395833
-Centrify,160,USA,94085,Sunnyvale,785 N. Mary Avenue,37.390918,-122.080843
-Integrate,120,USA,85251,Scottsdale,4900 N. Scottsdale Road,40.7481039,-74.0353787
-Webroot,400,USA,80021,Broomfield,385 Interlocken Crescent Blvd,40.02644,-105.2247774
-Lyft,180,USA,94104,San Francisco,,37.7899027,-122.4007846
-TradeCard,130,USA,10038,New York,75 Maiden Lane,40.707729,-74.007801
-Yammer,400,USA,94103,San Francisco,1355 Market St,37.776246,-122.4179223
-iWeb Technologies,210,CAN,H3E 1Z6,"Montreal, QuÃ©bec",20 Place du Commerce,45.467876,-73.54266
-TRUECar,303,USA,90401,Santa Monica,225 Santa Monica Blvd.,34.0152942,-118.4965479
-Stylesight,200,USA,10018,NEW YORK,25 W. 39TH STREET,40.730763,-74.000827
-Fusion Garage,100,null,null,null,null,null,null
-Koolanoo Group,280,CHN,100020,Beijing,"D/20F, The Place, #9 Guanghua Road",39.905556,116.395833
-Centrify,160,USA,94085,Sunnyvale,785 N. Mary Avenue,37.390918,-122.080843
-Integrate,120,USA,85251,Scottsdale,4900 N. Scottsdale Road,40.7481039,-74.0353787
-Webroot,400,USA,80021,Broomfield,385 Interlocken Crescent Blvd,40.02644,-105.2247774
-Lyft,180,USA,94104,San Francisco,,37.7899027,-122.4007846
-TradeCard,130,USA,10038,New York,75 Maiden Lane,40.707729,-74.007801
-Yammer,400,USA,94103,San Francisco,1355 Market St,37.776246,-122.4179223
-iWeb Technologies,210,CAN,H3E 1Z6,"Montreal, QuÃ©bec",20 Place du Commerce,45.467876,-73.54266
-TRUECar,303,USA,90401,Santa Monica,225 Santa Monica Blvd.,34.0152942,-118.4965479
-Stylesight,200,USA,10018,NEW YORK,25 W. 39TH STREET,40.730763,-74.000827
-Fusion Garage,100,null,null,null,null,null,null
-FetchBack,100,USA,85281,Tempe,100 W University Drive,33.426418,-111.9396
-LogLogic,150,USA,95134,San Jose,110 Rose Orchard Way,37.4155698,-121.9486567
-RiseSmart,100,USA,95110,San Jose,2055 Gateway Place,37.383526,-122.012808
-Groupon,10000,USA,60654,Chicago,600 W. Chicago Ave,41.8965162,-87.643622
-Mindjet,200,USA,94111,San Francisco,1160 Battery Street East,50.095312,9.049981
-Nexenta Systems,200,USA,95050,Santa Clara,455 El Camino Real,37.444098,-122.161287
-Cloudera,230,USA,94306,Palo Alto,220 Portage Ave,37.5783417,-122.3497546
-Vuclip,100,USA,95035,Milpitas,1551 McCarthy Boulevard,37.406027,-121.918642
-A10 Networks,500,USA,95134,San Jose,3 W Plumeria Drive,37.391198,-121.93393
-Model Metrics,120,USA,60654,Chicago,600 West Chicago Ave,41.8961282,-87.6371628
-SOASTA,100,USA,94041,Mountain View,444 Castro St.,37.418616,-122.087417
-Next Jump,225,USA,10016,New York,261 Fifth Avenue,40.7451545,-73.9869549
-Open-Xchange,100,USA,10591,Tarrytown,303 South Broadway,41.0662835,-73.8625452
-Centro,300,USA,60654,Chicago,222 W Hubbard St.,41.889853,-87.6355433
-Trustpilot,100,DNK,1614,Copenhagen V,Trommesalen 5,55.6739617,12.5605372
-PatientKeeper,150,USA,02451,Waltham,880 Winter Street,42.357119,-71.1858605
-ShipServ,100,GBR,W4 5YA,London,"Building 3, Chiswick Park",51.4629038,-0.263377
-Twilio,100,USA,94107,San Francisco,"645 Harrison, 3rd Floor",37.7898499,-122.4006831
-MediaMath,125,USA,10018,New York,1440 Broadway,40.756799,-73.9763479
-LoopNet,300,USA,94107,San Francisco,185 Berry Street,37.7759421,-122.3931139
-Canpages,400,CAN,V5A 0C2,British Columbia,One Innovation Place 2700,49.2599284,-122.9153695
-mFoundry,160,USA,94939,Larkspur,60 E Sir Francis Drake Blvd,37.862592,-122.493561
-AppLabs,2000,IND,500034,Hyderabad,"Plot No. 83 & 84, Road # 2",44.6672372,4.7694829
-OpSource,200,USA,95054,Santa Clara,5201 Great America Parkway,37.406217,-121.976473
-Exit41,100,USA,01810,Andover,Three Dundee Park,42.6555302,-71.1455618
-Appcelerator,150,USA,94043,Mountain View,440 N. Bernardo Avenue,37.3909185,-122.0808426
-SecondMarket,140,USA,10011,New York,636 Avenue of the americas,40.705439,-74.012822
-SolarWinds,354,USA,78746,Austin,3711 South MoPac Expressway,30.245535,-97.805621
-Clear2Pay,450,BEL,2800,Mechelen,SchaliÃ«nhoevedreef 20A,51.0551923,4.4609658
-FireEye,320,USA,95035,Milpitas,1440 McCarthy Blvd.,37.4102801,-121.9210492
-ClickSquared,175,USA,02210,Boston,280 Summer St,42.3913892,-71.2709869
-RGB Networks,125,USA,94089,Sunnyvale,390 West Java Drive,37.4123706,-122.0216271
-Elemental Technologies,130,USA,97205,Portland,225 SW Broadway,45.519179,-122.677001
-Silver Spring Networks,650,USA,94063,Redwood City,575 Broadway Street,37.4858629,-122.2067269
-Sonim Technologies,200,USA,94402,San Mateo,1875 S. Grant Street,37.553121,-122.301534
-Clarabridge,150,USA,20191,Reston,"11400 Commerce Park Dr,",38.946532,-77.340436
-Silverpop,380,USA,30339,Atlanta,200 Galleria Parkway,33.882526,-84.4655151
-ECI Telecom,3000,USA,33309,Ft. Lauderdale,5100 NW 33rd Avenue,26.1875706,-80.1912988
-Initiate Systems,280,USA,60606,Chicago,200 West Madison Street,41.882301,-87.634311
-Vocalocity,175,USA,30309,Atlanta,1375 Peachtree Street NE,33.7812614,-84.3675617
-[x+1],105,USA,10010,New York,315 Park Avenue South,40.7455068,-73.982624
-Intalio,140,USA,94301,Palo Alto,644 Emerson Street,37.4434186,-122.1607586
-Skout,100,USA,94105,San Francisco,301 Howard,37.7800539,-122.3912492
-DemandTec,350,USA,94070,San Carlos,"1 Circle Star Way, Suite 200",37.498842,-122.239815
-Landor Associates,750,null,null,null,null,null,null
-Naseeb Networks,100,PAK,,Lahore,"210-A, 2nd Floor",37.3015115,-121.9303616
-Chelsio Communications,170,USA,94085,Sunnyvale,370 San Aleso Ave.,37.3936563,-122.0279022
-Nexway,160,FRA,92741,Nanterre cedex,1 bd des Bouvets,48.8980441,2.2200007
-Good Technology,800,USA,94085,Sunnyvale,430 N. Mary Ave,37.518539,-122.254275
-Copan Systems,144,USA,80501,Longmont,1900 Pike Road,40.138979,-105.124465
-Nexsan,126,USA,91360,Thousand Oaks,555 St. Charles Drive,34.185043,-118.878852
-Synaptics,250,USA,95131,San Jose,"1251 McKay Dr.,",37.352313,-121.967982
-Quantum Secure,160,USA,95112,San Jose,100 Century Center Court,37.367838,-121.915594
-Secure Computing,344,null,null,null,null,null,null
-WANdisco,175,USA,94583,San Ramon,5000 Executive Pkwy,37.769205,-121.966395
-Perceptis,1000,USA,85008,Phoenix,4130 E Van Buren St,33.357125,-111.974507
-Shriv Commedia Solutions Pvt Ltd,200,IND,201301,Noida,"D-100,",28.5865869,77.3360319
-Concur Technologies,1200,USA,98028,Redmond,18400 NE Union Hill Rd,51.5200277,-0.651155
-inContact,300,USA,84047,Midvale,7730 S. Union Park Ave.,40.6110797,-111.853717
-Skytap,200,USA,98104,Seattle,710 2nd Avenue,47.544341,-122.334732
-Imaginova,150,USA,10016,New York,470 Park Avenue South,40.7454971,-73.9826042
-Dyn,250,USA,03101,Manchester,150 Dow Street,42.9959408,-71.4634803
-Hirshorn Zuckerman Design Group,100,USA,,New York,,40.756054,-73.986951
-Unity Technologies,200,USA,94107,San Francisco,795 Folsom,55.6924605,12.530107
-Jama Software,103,USA,97209,Portland,1060 NW 9th Avenue,45.5309644,-122.68038
-ePartners,215,USA,75038,Irving,1231 Greenway Drive,32.889576,-96.9668747
-Cornerstone OnDemand,881,USA,90404,Santa Monica,1601 Cloverfield Blvd.,34.028182,-118.472577
-Sift,105,GBR,BS1 1QB,Bristol,48-52 Baldwin Street,51.451168,-2.5869272
-Axcient,150,USA,94043,Mountain View,1161 San Antonio Rd.,37.3973018,-122.0595623
-Z2Live,130,USA,98101,Seattle,1601 2nd Ave,47.6103008,-122.3399782
-ZillionTV,100,USA,94086,Sunnyvale,1170 Kifer Road,37.3738725,-121.9973546
-TIS India,100,USA,89108,Las Vegas,Ramrod Street,36.215329,-115.23662
-Nimsoft,150,USA,94065,Redwood City,275 Shoreline Drive,37.524851,-122.257185
-ControlCircle,105,GBR,E14 9FH,London,221 Marsh Wall,51.5003204,-0.0178689
-Openbravo,100,ESP,08009,Barcelona,Pau Claris 138,41.3935324,2.1660785
-MetricStream,1000,USA,94303,Palo Alto,2600 E. Bayshore Road,37.446535,-122.118794
-HootSuite,370,CAN,V5T4S8,Vancouver,5 East 8th Avenue,49.2851733,-123.0952381
-Brandsclub,140,BRA,,Sao Paulo,,-23.5489433,-46.6388182
-Basho Technologies,110,USA,02139,Cambridge,700 Massachusetts Ave.,42.365867,-71.092285
-NuView Systems,100,USA,01810,Andover,200 Brickstone Sq,42.53182,-71.134358
-Alert Logic,217,USA,77056,Houston,1776 Yorktown,29.747497,-95.471515
-Bomgar,150,USA,39157,Ridgeland,578 Highland Colony Parkway,32.416174,-90.1633006
-SolarEdge,230,USA,94538,Fremont,3347 Gateway Boulevard,37.4757796,-121.9382415
-Tuenti Technologies,170,ESP,,Madrid,Plaza Cortes 2,40.4158236,-3.696277
-SurveyMonkey,250,USA,97204,Portland,111 SW 5th Ave,45.522105,-122.676129
-Red Engineering Design,100,GBR,W1T 3NJ,London,Woolverstone House,51.5234209,-0.1398614
-Birst,150,USA,94108,San Francisco,153 Kearny Street,37.789471,-122.404113
-Huge,600,USA,11201,Brooklyn,45 Main Street,40.7028474,-73.9906813
-CPM Braxis,5400,BRA,04543-900,SÃ£o Paulo,"Av. Presidente Juscelino Kubitschek, 1830 12Âº andar",-23.5910421,-46.6872018
-EPAM Systems,8100,USA,18940,Newtown,41 University Drive,40.2252558,-74.9035582
-Netbiscuits,145,DEU,67657,Kaiserslautern,Europaallee 10,49.4559965,7.8068522
-NetRetail Holding,200,CZE,1076 AZ,Amsterdam,Locatellikade 1 1076 AZ Amsterdam,52.3435239,4.866857
-Bullhorn,100,USA,02210,Boston,33-41 Farnsworth Street,42.35198,-71.047739
-VFM Leonardo,120,CAN,M5V 2H1,Toronto,"111 Peter Street, Suite 530",43.6478154,-79.393037
-eMeter,200,USA,94404,San Mateo,2215 Bridgepointe Parkway,37.560781,-122.284114
-Corvil,100,USA,10017,New York,777 Third Ave.,40.7547187,-73.9711073
-AeroScout,200,USA,94065,Redwood City,1300 Island Drive,37.5353434,-122.2558368
-Unitrends Software,200,USA,29203,Columbia,"7 Technology Circle, Suite 100",34.10057,-80.963732
-Razorsight,190,USA,20190,Reston,1750 Presidents Street,38.872668,-77.367981
-Canopy Financial,100,USA,94105,San Francisco,201 Spear St.,37.791388,-122.392148
-Millennial Media,137,USA,21224,Baltimore,"2400 Boston Street, Suite 301",39.281734,-76.581864
-Veeva,510,USA,94588,Pleasanton,4637 Chabot Drive,37.69249,-121.900722
-Digium,120,USA,35806,Huntsville,445 Jan Davis Dr,34.7165112,-86.6917016
-Autoquake,100,GBR,NW1 5RA,London,Winchester House,51.543337,-0.172364
-2 Minutes,105,FRA,75012,Paris,9 rue biscornet,48.8502056,2.3698033
-Sunrun,180,USA,94105,San Francisco,"45 Fremont Street, 32nd Floor",37.7871306,-122.4041075
-TRIRIGA,214,USA,89119,Las Vegas,6720 Via Austi Parkway,36.0686005,-115.162279
-EdeniQ,100,USA,93291,Visalia,2505 N. Shirk,36.35198,-119.368461
-Novariant,200,USA,94538,Fremont,45700 Northport Loop East,37.49202,-121.952239
-Netsize,250,FRA,92197,Meudon  (Paris),6 Rue de la Verrerie,48.8943115,2.288319
-Tribold,106,GBR,W1W 5NA,London,19 Bolsover Street,51.5209358,-0.1424094
-MD-IT,1000,USA,80301,Boulder,"4940 Pearl East Circle, Suite 100",40.020421,-105.236011
-Water Health International,500,USA,92618,Irvine,9601 Irvine Center Drive,33.6333479,-117.7327363
-Anacomp,600,USA,92128,San Diego,15378 Avenue of Science,32.994888,-117.082032
-General Dynamics,92900,USA,22042-4513,Falls Church,2941 Fairview Park Drive,38.8712205,-77.217416
-Avantium Technologies,200,NLD,NL-1014,Amsterdam,Zekeringstraat 29,52.3965603,4.8516964
-MicroVision,110,USA,98052,Redmond,6222 185th Ave,47.6614954,-122.0943198
-Biolex Therapeutics,105,USA,27312,Pittsboro,158 Credle Street,35.7259177,-79.1791771
-Bigpoint,500,DEU,20354,Hamburg,Drehbahn 47-48,53.5973055,9.9762519
-ZoomSystems,100,USA,94103,San Francisco,"22 4th Street, Floor 16",37.781689,-122.391061
-Exent,100,USA,10001,New York,632 W. 28th St.,40.7523796,-74.005568
-Pontis,105,ISR,4366241,Ra’anana,"13 Zarhin st. (building C),",32.1980455,34.8824253
-Audience,189,USA,94043,Mountain View,440 Clyde Avenue,37.397602,-122.047546
-OpTier,150,USA,10118,New York,350 Fifth Avenue,40.754937,-73.985647
-Layer 7 Technologies,165,USA,20005,Washington,"1200 G Street, NW, Suite 800",38.897976,-77.028561
-Maxymiser,250,USA,10012,New York,532 Broadway,55.9485591,-3.2151393
-Solairedirect,150,FRA,75008,Paris,85 boulevard Haussmann,48.8745951,2.3210737
-Mashable,100,USA,10010-3646,New York,304 Park Ave South,40.7401544,-73.9867417
-SpringSoft,400,USA,95110,San Jose,"2025 Gateway Place, Suite 400",37.37027,-121.924053
-MentorMate,216,USA,55408,Minneapolis,3036 Hennepin Avenue,44.948786,-93.161038
-InfoLogix,206,USA,19040,Hatboro,101 East County Line Road,40.1923295,-75.1069232
-smartFOCUS,550,GBR,BS1 6NP,Bristol,One Redcliff Street,51.4525116,-2.5909744
+name,number_of_employees,Country,Zip_code,City,Address,Lat,Long,City_count
+Twitter,1300,USA,94103,San Francisco,1355 Market St.,37.7768052,-122.4169244,50.0
+eBay,15000,USA,95125,San Jose,2145 Hamilton Avenue,37.295005,-121.930035,16.0
+Cisco,63000,USA,95134,San Jose,170 West Tasman Dr.,37.408802,-121.95377,16.0
+Yahoo!,13600,USA,94089,Sunnyvale,701 First Avenue,37.418531,-122.025485,9.0
+Google,28000,USA,,Mountain View,1600 Amphitheatre Parkway,37.421972,-122.084143,16.0
+Jajah,110,USA,94043,Mountain View,2513 Charleston Road,37.4233896,-122.0899512,16.0
+Livestream,120,USA,10011,New York,"111 8th Avenue, #1509",40.726155,-73.995625,30.0
+Ustream,250,USA,94107,San Francisco,410 Townsend,37.392936,-122.07948,50.0
+Yelp,800,USA,94103,San Francisco,706 Mission Street,37.786183,-122.402195,50.0
+RockYou,106,USA,94063,Redwood City,585 Broadway,37.484619,-122.206893,7.0
+Meebo,200,USA,94041,Mountain View,215 Castro Street,37.393679,-122.079017,16.0
+Eventbrite,200,USA,94107,San Francisco,651 Brannan,37.779507,-122.39071,50.0
+LinkedIn,4800,USA,94043,Mountain View,2029 Stierlin Ct,37.423258,-122.073635,16.0
+Redfin,100,USA,98121,Seattle,2025 1st Ave,47.603122,-122.333253,8.0
+oDesk,120,USA,94063,Redwood City,901 Marshall Street,37.479952,-122.178557,7.0
+Simply Hired,100,USA,94085,Sunnyvale,370 San Aleso Ave,37.4219165,-122.0780632,9.0
+Bazaarvoice,600,USA,78746,Austin,3900 N Capital of Texas Hwy,30.407545,-97.717667,5.0
+PowerReviews,120,USA,94103,San Francisco,22 4th Street,37.779558,-122.393041,50.0
+hi5,100,USA,94105,San Francisco,55 Second Street,37.788668,-122.400558,50.0
+Tagged,162,USA,94119-3152,San Francisco,P.O. Box 193152,37.7753,-122.4186,50.0
+NetSuite,1600,USA,94403,San Mateo,"2955 Campus Drive, Suite 100",37.536172,-122.327323,11.0
+Adobe Systems,7173,USA,,San Jose,,37.320052,-121.877636,16.0
+PayScale,130,USA,98104,Seattle,542 First Ave South,47.5999337,-122.3276962,8.0
+Brightcove,220,USA,02142,Cambridge,One Cambridge Center,42.362993,-71.086596,6.0
+PayPal,300000,USA,95125,San Jose,2145 E Hamilton Ave,37.294465,-121.927696,16.0
+AOL,8000,USA,10003,New York,770 Broadway,40.7311317,-73.9919311,30.0
+IMVU,150,USA,94041,Mountain View,200 West Evelyn Ave.,37.3927975,-122.0727749,16.0
+Dropbox,350,USA,94107,San Francisco,,37.7909427,-122.4084994,50.0
+KIT digital,200,USA,10011,New York,26 W 17th Street,40.751816,-73.971655,30.0
+BlueLithium,135,USA,95128,San Jose,"3055 Olin Avenue, Suite 2200",37.32052,-121.948399,16.0
+ZoomInfo,800,USA,02452,Waltham,307 Waverley Oaks Road,42.38532,-71.207055,5.0
+ReachLocal,1700,GBR,,London,2 Queen Caroline St.,41.53155,-72.188584,8.0
+Trulia,500,USA,94501,San Francisco,116 New Montgomery,37.766909,-122.406676,50.0
+OpenTable,550,USA,,San Francisco,One Montgomery,37.785647,-122.405265,50.0
+Ooyala,300,USA,94040,Mountain View,800 West El Camino Real,37.386665,-122.084171,16.0
+hulu,153,USA,90064,Los Angeles,12312 W. Olympic Blvd.,34.031276,-118.456806,5.0
+PubMatic,380,USA,94063,Redwood City,305 Main Street,37.446668,-122.156579,7.0
+Clickable,160,USA,10010,New York,7 West 22nd Street,40.7413559,-73.9912208,30.0
+Mozilla,800,USA,94041,Mountain View,650 Castro Street,37.418491,-122.08744,16.0
+Zillow,600,USA,98101,Seattle,,47.6011125,-122.3293984,8.0
+Moz,130,USA,98101,Seattle,"119 Pine Street, Suite 400",47.620716,-122.347533,8.0
+Zimbra,200,USA,94304,Palo Alto,3401 Hillview Avenue,37.557637,-122.285714,11.0
+Blurb,150,USA,94104,San Francisco,580 California St.,37.792968,-122.40414,50.0
+The Climate Corporation,150,USA,94103,San Francisco,201 Third Street,37.782809,-122.394354,50.0
+Automattic,200,USA,94107,San Francisco,132 Hawthorne St,37.744274,-122.421344,50.0
+Payoneer,200,USA,10022,New York,410 Park Avenue - 15th Floor,40.621591,-73.960717,30.0
+EchoSign,100,USA,94301,Palo Alto,"555 Bryant Street, #101",37.445326,-122.160671,11.0
+TrialPay,100,USA,94041,Mountain View,303 Bryant St.,37.388095,-122.08276,16.0
+Gigya,230,USA,94043,Mountain View,2513 E. Charleston Rd.,37.43938,-122.158804,16.0
+MyBuys,120,USA,94402,San Mateo,"411 Borel Avenue, Ste. 100",37.530893,-122.245087,11.0
+Splunk,500,USA,94107,San Francisco,250 Brannan St.,37.78274,-122.390945,50.0
+TrustedID,120,USA,94306,Palo Alto,395 Page Mill Road,37.520592,-122.255907,11.0
+Yodle,1000,USA,10010,New York,50 West 23rd Street,40.742459,-73.9918126,30.0
+Deezer,200,FRA,75009,Paris,"12, rue d'Athenes",48.8780596,2.3283853,6.0
+HubSpot,650,USA,02141,Cambridge,25 First St.,42.375392,-71.118487,6.0
+Viadeo,400,FRA,75009,Paris,30 Rue de la Victoire,48.8747064,2.3304161,6.0
+GrubHub,250,USA,60602,Chicago,111 W. Washington St.,41.907647,-87.649878,7.0
+Deem,400,USA,94105,San Francisco,301 Howard Street,37.559836,-122.271532,50.0
+CDNetworks,350,USA,CA 95134,San Jose,441 W. Trimble Road,37.4050988,-121.9477639,16.0
+Tesla Motors,500,USA,94304,Palo Alto,3500 Deer Creek rd.,37.496737,-122.245323,11.0
+SuccessFactors,1200,USA,94404,San Mateo,1500 Fashion Island Blvd. Suite 300,37.557637,-122.285714,11.0
+fabrik,175,USA,94402,San Mateo,"1825 South Grant St., Suite 200",37.553743,-122.300246,11.0
+Oversee,150,USA,90071,Los Angeles,515 S. Flower Street Suite 4400,34.051368,-118.256305,5.0
+Zynga,115,USA,94103,San Francisco,365 Vermont St.,37.765158,-122.404234,50.0
+Endeca,500,USA,02142,Cambridge,101 Main Street,42.36233,-71.081527,6.0
+BreakingPoint Systems,109,USA,78746,Austin,3900 N. Capital of Texas Highway,30.384453,-97.709809,5.0
+TheLadders,110,USA,10013,New York,137 Varick Street,40.725883,-74.006196,30.0
+Social Gaming Network,100,USA,90035,Los Angeles,9570 W. Pico Blvd 3rd Floor,37.446823,-122.161523,5.0
+Coverity,300,USA,94107,San Francisco,185 Berry Street,37.7759675,-122.3931128,50.0
+Exalead,150,FRA,75008,Paris,10 place de la madeleine,48.86931,2.324782,6.0
+AdoTube,160,USA,10010,New York,915 Broadway,40.752672,-73.97593,30.0
+Evernote,280,USA,94063,Redwood City,305 Walnut St,37.386774,-121.987661,7.0
+Intuit,8000,USA,94043,Mountain View,2632 Marine Way,37.428373,-122.097604,16.0
+Flurry,150,USA,94107,San Francisco,360 3rd Street,37.783046,-122.394067,50.0
+Boonty,150,USA,10013,New York,54 Franklin Street,40.717248,-74.002662,30.0
+99designs,100,USA,94111,San Francisco,447 Battery St.,37.7955307,-122.4005983,50.0
+Elance,100,USA,94043,Mountain View,441 Logue Avenue,37.398022,-122.049143,16.0
+LiveRail,110,USA,94105,San Francisco,575 Market St.,37.787183,-122.397759,50.0
+OpenDNS,200,USA,94107,San Francisco,145 Bluxome,37.789268,-122.395184,50.0
+Clarizen,110,USA,94403,San Mateo,"2988 Campus Drive,",37.536044,-122.328401,11.0
+Next New Networks,121,USA,10010,New York,22 W 21st St,40.743808,-73.983626,30.0
+InMage Systems,150,USA,95112,San Jose,100 Century Center Court,37.381034,-121.971487,16.0
+Magento,275,USA,,Los Angeles,,34.052187,-118.243425,5.0
+7digital,120,GBR,EC2A 2BB,London,69 Wilson Sreet,51.5254,-0.083726,8.0
+Wikimedia Foundation,143,USA,94105,San Francisco,149 New Montgomery St.,37.76785,-122.392839,50.0
+Clearwell Systems,210,USA,94043,Mountain View,441 Logue Ave.,37.398022,-122.049143,16.0
+Red Bend Software,100,USA,02451,Waltham,"400-1 Totten Pond Road, Suite 130",42.389795,-71.239286,5.0
+Marketo,260,USA,94404,San Mateo,901 Mariners Island Blvd,37.5583,-122.301385,11.0
+Bonobos,150,USA,10011,New York,45 West 25th Street,40.7384997,-73.9954585,30.0
+Edmodo,100,USA,94401,San Mateo,"60 E. Third Ave., #390",41.857915,-88.321171,11.0
+Cellfish,220,USA,10016,New York,215 Lexington Avenue,40.761855,-73.983754,30.0
+Huddle,200,GBR,EC1Y 2BP,London,"1st Floor, Transworld House,",51.4999065,-0.0814873,8.0
+RichRelevance,250,USA,94107,San Francisco,633 Folsom St.,37.7938969,-122.4000965,50.0
+PixelCrayons,200,USA,10003,New York,228 Park Ave S # 25950,28.682042,77.087502,30.0
+SquareTrade,190,USA,94105,San Francisco,575 Market Street,37.789551,-122.40036,50.0
+Mojiva,105,USA,10013,New York,136 Baxter St,40.7185614,-73.998662,30.0
+GitHub,106,USA,94107,San Francisco,275 Brannan St.,37.775196,-122.419204,50.0
+Daptiv,150,USA,98104,Seattle,1008 Western Avenue,47.604279,-122.337437,8.0
+Modern Feed,123,USA,90038,Los Angeles,818 N. La Brea Ave.,34.085749,-118.343791,5.0
+Tealeaf,100,USA,94105,San Francisco,45 Fremont St.,37.791242,-122.397133,50.0
+InvenSense,400,USA,95110,San Jose,1745 Technology Dr,37.407445,-122.019405,16.0
+Kabam,650,USA,94107,San Francisco,795 Folsom Street,37.3944561,-122.0785314,50.0
+PatientsLikeMe,200,USA,02141,Cambridge,155 Second Street,42.3674989,-71.0793952,6.0
+Efficient Frontier,200,USA,94089,Sunnyvale,809 Eleventh Avenue,37.4049731,-122.0323525,9.0
+[x+1],105,USA,10010,New York,315 Park Avenue South,40.7455068,-73.982624,30.0
+Knewton,145,USA,10011,New York,100 5th Avenue,40.7310476,-74.0078134,30.0
+AtHoc,150,USA,94403,San Mateo,2988 Campus Dr.,37.560747,-122.284001,11.0
+Acquity Group,500,USA,60606,Chicago,500 West Madison Street,41.881876,-87.639713,7.0
+Cloudmark,100,USA,94107,San Francisco,128 King Street,37.779507,-122.39071,50.0
+TRUSTe,130,USA,94103,San Francisco,835 Market Street,37.7886685,-122.4005576,50.0
+VMware,13500,USA,94304,Palo Alto,3401 Hillview Ave,37.403315,-122.145981,11.0
+Medallia,140,USA,94306,Palo Alto,395 Page Mill Rd.,37.4520239,-122.1797053,11.0
+Epic Advertising,105,USA,10018,New York,512 Seventh Avenue,40.753403,-73.989189,30.0
+WSO2,228,USA,94306,Palo Alto,"4131 El Camino Real,",37.390918,-122.080843,11.0
+mindSHIFT Technologies,380,USA,02452,Waltham,309 Waverley Oaks Road,42.38532,-71.207055,5.0
+Practice Fusion,280,USA,94102,San Francisco,420 Taylor Street,37.7886717,-122.392725,50.0
+NetSpend,300,USA,78768-2136,Austin,PO Box 2136,30.2667,-97.7428,5.0
+Intacct,150,USA,95113,San Jose,150 Almaden Blvd.,37.332948,-121.89053,16.0
+Louis Vuitton,9671,FRA,75008,Paris,101 Avenue des Champs ElysÃ©es,48.871976,2.30069,6.0
+InsideView,150,USA,94107,San Francisco,444 De Haro Street,37.764169,-122.402021,50.0
+WideOrbit,350,USA,94111,San Francisco,1160 Battery,37.7895289,-122.3885899,50.0
+FusionOne,140,USA,95113,San Jose,55 Almaden Blvd.,37.333439,-121.895286,16.0
+Troux Technologies,100,USA,78730,Austin,8601 FM 2222,30.381525,-97.810484,5.0
+thePlatform,130,USA,98104,Seattle,1000 2nd Avenue,47.617838,-122.356027,8.0
+MetaCarta,99999,USA,02139,Cambridge,350 Massachusetts Ave,42.36236,-71.099692,6.0
+Achievers,150,USA,94105,San Francisco,181 Fremont Street,43.637296,-79.425455,50.0
+IDEO,500,USA,94301,Palo Alto,100 Forest Avenue,37.441971,-122.161151,11.0
+Zendesk,400,USA,94102,San Francisco,989 Market St,55.676294,12.568116,50.0
+Epocrates,300,USA,94403,San Mateo,1100 Park Place,37.544987,-122.291394,11.0
+SAVO,130,USA,60606,Chicago,155 N Wacker Drive,41.87675,-87.640458,7.0
+Minted,115,USA,94111,San Francisco,747 Front Street,37.797435,-122.403175,50.0
+Appirio,500,USA,94102,San Francisco,760 Market Street,37.5552776,-122.2997532,50.0
+Black Duck Software,100,USA,02451,Waltham,265 Winter Street,42.398916,-71.253998,5.0
+ngmoco,150,USA,94107,San Francisco,185 Berry Street,37.7705096,-122.4015807,50.0
+Centrify,160,USA,94085,Sunnyvale,785 N. Mary Avenue,37.390918,-122.080843,9.0
+Lyft,180,USA,94104,San Francisco,,37.7899027,-122.4007846,50.0
+TradeCard,130,USA,10038,New York,75 Maiden Lane,40.707729,-74.007801,30.0
+Yammer,400,USA,94103,San Francisco,1355 Market St,37.776246,-122.4179223,50.0
+Centrify,160,USA,94085,Sunnyvale,785 N. Mary Avenue,37.390918,-122.080843,9.0
+Lyft,180,USA,94104,San Francisco,,37.7899027,-122.4007846,50.0
+TradeCard,130,USA,10038,New York,75 Maiden Lane,40.707729,-74.007801,30.0
+Yammer,400,USA,94103,San Francisco,1355 Market St,37.776246,-122.4179223,50.0
+LogLogic,150,USA,95134,San Jose,110 Rose Orchard Way,37.4155698,-121.9486567,16.0
+RiseSmart,100,USA,95110,San Jose,2055 Gateway Place,37.383526,-122.012808,16.0
+Groupon,10000,USA,60654,Chicago,600 W. Chicago Ave,41.8965162,-87.643622,7.0
+Mindjet,200,USA,94111,San Francisco,1160 Battery Street East,50.095312,9.049981,50.0
+Cloudera,230,USA,94306,Palo Alto,220 Portage Ave,37.5783417,-122.3497546,11.0
+A10 Networks,500,USA,95134,San Jose,3 W Plumeria Drive,37.391198,-121.93393,16.0
+Model Metrics,120,USA,60654,Chicago,600 West Chicago Ave,41.8961282,-87.6371628,7.0
+SOASTA,100,USA,94041,Mountain View,444 Castro St.,37.418616,-122.087417,16.0
+Next Jump,225,USA,10016,New York,261 Fifth Avenue,40.7451545,-73.9869549,30.0
+Centro,300,USA,60654,Chicago,222 W Hubbard St.,41.889853,-87.6355433,7.0
+PatientKeeper,150,USA,02451,Waltham,880 Winter Street,42.357119,-71.1858605,5.0
+ShipServ,100,GBR,W4 5YA,London,"Building 3, Chiswick Park",51.4629038,-0.263377,8.0
+Twilio,100,USA,94107,San Francisco,"645 Harrison, 3rd Floor",37.7898499,-122.4006831,50.0
+MediaMath,125,USA,10018,New York,1440 Broadway,40.756799,-73.9763479,30.0
+LoopNet,300,USA,94107,San Francisco,185 Berry Street,37.7759421,-122.3931139,50.0
+Appcelerator,150,USA,94043,Mountain View,440 N. Bernardo Avenue,37.3909185,-122.0808426,16.0
+SecondMarket,140,USA,10011,New York,636 Avenue of the americas,40.705439,-74.012822,30.0
+SolarWinds,354,USA,78746,Austin,3711 South MoPac Expressway,30.245535,-97.805621,5.0
+RGB Networks,125,USA,94089,Sunnyvale,390 West Java Drive,37.4123706,-122.0216271,9.0
+Silver Spring Networks,650,USA,94063,Redwood City,575 Broadway Street,37.4858629,-122.2067269,7.0
+Sonim Technologies,200,USA,94402,San Mateo,1875 S. Grant Street,37.553121,-122.301534,11.0
+Initiate Systems,280,USA,60606,Chicago,200 West Madison Street,41.882301,-87.634311,7.0
+[x+1],105,USA,10010,New York,315 Park Avenue South,40.7455068,-73.982624,30.0
+Intalio,140,USA,94301,Palo Alto,644 Emerson Street,37.4434186,-122.1607586,11.0
+Skout,100,USA,94105,San Francisco,301 Howard,37.7800539,-122.3912492,50.0
+Chelsio Communications,170,USA,94085,Sunnyvale,370 San Aleso Ave.,37.3936563,-122.0279022,9.0
+Good Technology,800,USA,94085,Sunnyvale,430 N. Mary Ave,37.518539,-122.254275,9.0
+Synaptics,250,USA,95131,San Jose,"1251 McKay Dr.,",37.352313,-121.967982,16.0
+Quantum Secure,160,USA,95112,San Jose,100 Century Center Court,37.367838,-121.915594,16.0
+Skytap,200,USA,98104,Seattle,710 2nd Avenue,47.544341,-122.334732,8.0
+Imaginova,150,USA,10016,New York,470 Park Avenue South,40.7454971,-73.9826042,30.0
+Hirshorn Zuckerman Design Group,100,USA,,New York,,40.756054,-73.986951,30.0
+Unity Technologies,200,USA,94107,San Francisco,795 Folsom,55.6924605,12.530107,50.0
+Axcient,150,USA,94043,Mountain View,1161 San Antonio Rd.,37.3973018,-122.0595623,16.0
+Z2Live,130,USA,98101,Seattle,1601 2nd Ave,47.6103008,-122.3399782,8.0
+ZillionTV,100,USA,94086,Sunnyvale,1170 Kifer Road,37.3738725,-121.9973546,9.0
+Nimsoft,150,USA,94065,Redwood City,275 Shoreline Drive,37.524851,-122.257185,7.0
+ControlCircle,105,GBR,E14 9FH,London,221 Marsh Wall,51.5003204,-0.0178689,8.0
+MetricStream,1000,USA,94303,Palo Alto,2600 E. Bayshore Road,37.446535,-122.118794,11.0
+Basho Technologies,110,USA,02139,Cambridge,700 Massachusetts Ave.,42.365867,-71.092285,6.0
+Red Engineering Design,100,GBR,W1T 3NJ,London,Woolverstone House,51.5234209,-0.1398614,8.0
+Birst,150,USA,94108,San Francisco,153 Kearny Street,37.789471,-122.404113,50.0
+eMeter,200,USA,94404,San Mateo,2215 Bridgepointe Parkway,37.560781,-122.284114,11.0
+Corvil,100,USA,10017,New York,777 Third Ave.,40.7547187,-73.9711073,30.0
+AeroScout,200,USA,94065,Redwood City,1300 Island Drive,37.5353434,-122.2558368,7.0
+Canopy Financial,100,USA,94105,San Francisco,201 Spear St.,37.791388,-122.392148,50.0
+Autoquake,100,GBR,NW1 5RA,London,Winchester House,51.543337,-0.172364,8.0
+2 Minutes,105,FRA,75012,Paris,9 rue biscornet,48.8502056,2.3698033,6.0
+Sunrun,180,USA,94105,San Francisco,"45 Fremont Street, 32nd Floor",37.7871306,-122.4041075,50.0
+Tribold,106,GBR,W1W 5NA,London,19 Bolsover Street,51.5209358,-0.1424094,8.0
+ZoomSystems,100,USA,94103,San Francisco,"22 4th Street, Floor 16",37.781689,-122.391061,50.0
+Exent,100,USA,10001,New York,632 W. 28th St.,40.7523796,-74.005568,30.0
+Audience,189,USA,94043,Mountain View,440 Clyde Avenue,37.397602,-122.047546,16.0
+OpTier,150,USA,10118,New York,350 Fifth Avenue,40.754937,-73.985647,30.0
+Maxymiser,250,USA,10012,New York,532 Broadway,55.9485591,-3.2151393,30.0
+Solairedirect,150,FRA,75008,Paris,85 boulevard Haussmann,48.8745951,2.3210737,6.0
+Mashable,100,USA,10010-3646,New York,304 Park Ave South,40.7401544,-73.9867417,30.0
+SpringSoft,400,USA,95110,San Jose,"2025 Gateway Place, Suite 400",37.37027,-121.924053,16.0
