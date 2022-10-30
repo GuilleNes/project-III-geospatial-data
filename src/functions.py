@@ -68,12 +68,12 @@ def get_results(query, location, limit, radius, token):
 def clean_results_first(df_, categ):
     new_list = []
     for i in df_["results"]:
-        name = i["name"]
-        address =  i["location"]["formatted_address"]
-        lat = i["geocodes"]["main"]["latitude"]
-        lon = i["geocodes"]["main"]["longitude"]
-        neighborhood = i["location"]['neighborhood'][0]   
-        new_list.append({"name":name,"category": categ,  "address": address, 'neighborhood': neighborhood, "lat":lat, "lon":lon})        
+            name = i["name"]
+            address =  i["location"]["formatted_address"]
+            lat = i["geocodes"]["main"]["latitude"]
+            lon = i["geocodes"]["main"]["longitude"]
+            neighborhood = i["location"]['neighborhood'][0]   
+            new_list.append({"name":name,"category": categ,  "address": address, 'neighborhood': neighborhood, "lat":lat, "lon":lon})
     return pd.DataFrame(new_list)
 
 
@@ -90,6 +90,8 @@ def clean_results(df_, dfr, categ):
     df = pd.DataFrame(new_list)
     return pd.concat([dfr, df], axis=0).reset_index(drop= True)
 
+# We add a row with the address of the new company
+
 def add_company(dfr, address, neigh, lat, lon):
     new_row = pd.DataFrame({'name': "Company",'address': address,'neighborhood': neigh,'lat': lat,"lon": lon}, index =[0])
     return pd.concat([new_row, dfr]).reset_index(drop = True)
@@ -102,5 +104,50 @@ def calc_distance_SF(x):
     place2_coords = (x.lat, x.lon)
     return (geopy.distance.geodesic(site_coords, place2_coords).km)*1000
 
-# df_SF["Distance"] = df_SF.apply(calc_distance_SF, axis = 1).round(2)
-        
+# df_SF["Distance"] = df_SF.apply(fun.calc_distance_SF, axis = 1).round(2)
+
+
+
+def calc_distance_SE(x):
+    site_coords = (47.6251419,-122.3268577)
+    place2_coords = (x.lat, x.lon)
+    return (geopy.distance.geodesic(site_coords, place2_coords).km)*1000
+
+# df_SE["Distance"] = df_SE.apply(fun.calc_distance_SE, axis = 1).round(2)
+
+def calc_distance_CH(x):
+    site_coords = (41.869276, -87.626694)
+    place2_coords = (x.lat, x.lon)
+    return (geopy.distance.geodesic(site_coords, place2_coords).km)*1000
+
+# df_SE["Distance"] = df_SE.apply(fun.calc_distance_SE, axis = 1).round(2)
+
+
+
+# We clean the results from the API keeping only the values that we need, only for London
+
+def clean_results_first_lo(df_, categ):
+    new_list = []
+    for i in df_["results"]:
+        name = i["name"]
+        address =  i["location"]["formatted_address"]
+        lat = i["geocodes"]["main"]["latitude"]
+        lon = i["geocodes"]["main"]["longitude"]
+        neighborhood = i["location"]['locality'][0]   
+        new_list.append({"name":name,"category": categ,  "address": address, 'neighborhood': neighborhood, "lat":lat, "lon":lon})        
+    return pd.DataFrame(new_list)
+
+
+# We clean the results from the API keeping only the values that we need, only for London
+
+def clean_results_lo(df_, dfr, categ):
+    new_list = []
+    for i in df_["results"]:
+        name = i["name"]
+        address =  i["location"]["formatted_address"]
+        lat = i["geocodes"]["main"]["latitude"]
+        lon = i["geocodes"]["main"]["longitude"]
+        neighborhood = i["location"]['locality'][0]   
+        new_list.append({"name":name, "category": categ, "address": address, 'neighborhood': neighborhood, "lat":lat, "lon":lon})
+    df = pd.DataFrame(new_list)
+    return pd.concat([dfr, df], axis=0).reset_index(drop= True)
