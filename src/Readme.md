@@ -102,13 +102,6 @@ fun.mapping_results(df_CH, CH_map)
 [MAP](https://guillenes.github.io./)
 
 
-<iframe id="inlineFrameExample"
-    title="Inline Frame Example"
-    width="600"
-    height="400"
-    src="https://guillenes.github.io./">
-</iframe>
-
 ![giphy](https://user-images.githubusercontent.com/112824189/199121838-f8ecd2ac-9694-49da-b0aa-ac59b4a81428.gif)
 
 Finally, in order to to get the final result for each city, we just apply a simple math formulation to the grouped data for each city. To this calculation we multiplied the value of the wheight of each category to get the final selected city.
