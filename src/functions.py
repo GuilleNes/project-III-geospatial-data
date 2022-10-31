@@ -3,8 +3,11 @@ from dotenv import load_dotenv
 import pandas as pd
 import geopandas as gpd
 import geopy
+from folium import Choropleth, Circle, Marker, Icon, Map
+from folium.plugins import HeatMap, MarkerCluster
 
 # We create a function to collect data from the offices column(country code, address, lat&long...).
+
 
 def get_info(lista, df_, a, b):    
     append_data = []
@@ -156,9 +159,8 @@ def clean_results_first_lo(df_, categ):
         name = i["name"]
         address =  i["location"]["formatted_address"]
         lat = i["geocodes"]["main"]["latitude"]
-        lon = i["geocodes"]["main"]["longitude"]
-        neighborhood = i["location"]['locality'][0]   
-        new_list.append({"name":name,"category": categ,  "address": address, 'neighborhood': neighborhood, "lat":lat, "lon":lon})        
+        lon = i["geocodes"]["main"]["longitude"]  
+        new_list.append({"name":name,"category": categ,  "address": address, 'neighborhood': "Null", "lat":lat, "lon":lon})        
     return pd.DataFrame(new_list)
 
 
@@ -201,28 +203,134 @@ def get_weight(dfr, df1):
     min_distance = df1.groupby("category").min("Distance").drop(["lat", "lon"], axis = 1)
     dfr = pd.concat([dfr, min_distance], axis=1)
     dfr = dfr.rename({'Distance': 'Min'}, axis=1)
-
     return dfr
 
 
 def final_result(dfr, city):
     if dfr['Mean'].isnull().values.any():
         dfr = dfr.fillna(3000)
-        dfr['Final Result'] = round(dfr["Mean"] * dfr["Weight"], 2)
+        dfr['Final Result'] = round(dfr["Mean"]/dfr["Radius"] * dfr["Weight factor"], 2)
         
 
     else:
-        dfr['Final Result'] = round(dfr["Mean"] * dfr["Weight"], 2)
+        dfr['Final Result'] = round(dfr["Mean"]/dfr["Radius"] * dfr["Weight factor"], 2)
 
     final_r = dfr["Final Result"].sum().round(2)
-    print(f"The final result for {city} is {final_r}")
-    return dfr
+    return f"The final result for {city} is {final_r}"
 
 
 
+#------------------------------------------------------------------------- Mapping function
 
+
+
+def mapping_results(df, map):
+
+    for index, row in df.iterrows():
+        
+        #1. MARKER without icon
+        district = {"location": [row["lat"], row["lon"]], "tooltip": row["name"]}
+        
+        #2. Icon
+        if row["category"] == "Coffee":        
+            icon = Icon (
+                color="white",
+                opacity = 0.6,
+                prefix = "fa",
+                icon="coffee",
+                icon_color = "black"
+            )
+        elif row["category"] == "Preschool":
+            icon = Icon (
+                color="pink",
+                opacity = 0.6,
+                prefix = "fa",
+                icon="graduation-cap",
+                icon_color = "yellow"
+            )
+        elif row["category"] == "Club":
+            icon = Icon (
+                color="darkpurple",
+                opacity = 0.6,
+                prefix = "fa",
+                icon="glass",
+                icon_color = "white"
+            )
+        elif row["category"] == "Vegan restaurant":
+            icon = Icon (
+                color="green",
+                opacity = 0.6,
+                prefix = "fa",
+                icon="cutlery",
+                icon_color = "white"
+            )
+        elif row["category"] == "Basketball arena":
+            icon = Icon (
+                color="orange",
+                opacity = 0.6,
+                prefix = "fa",
+                icon="futbol-o",
+                icon_color = "white"
+            )
+        elif row["category"] == "Airport":
+            icon = Icon (
+                color="blue",
+                opacity = 0.6,
+                prefix = "fa",
+                icon="plane",
+                icon_color = "white"
+                
+            )
+        elif row["category"] == "Pet hairdresser":
+            icon = Icon (
+                color="red",
+                opacity = 0.6,
+                prefix = "fa",
+                icon="scissors",
+                icon_color = "white"
+                
+            )
+        else:
+            row["category"] == "Company",
+            icon = Icon (
+            color="black",
+            opacity = 0.9,
+            prefix = "fa",
+            icon = "briefcase",
+            icon_color = "white",
+            icon_size=(30, 30)
+            )
+                
+        #3. Marker
+        marker = Marker(**district, icon = icon, radius = 2)
+        
+        #4. Add the Marker
+        marker.add_to(map)
+    return
+
+def mapping_companies(subset, map):
+    for index, row in subset.iterrows():
+    
+        #1. MARKER without icon
+        district = {"location": [row["Lat"], row["Long"]], "tooltip": row["name"]}
+        
+        #2. Icon       
+        icon = Icon (
+        color="white",
+        opacity = 0.6,
+        prefix = "fa",
+        icon="building",
+        icon_color = "black"
+            )
+
+                
+        #3. Marker
+        marker = Marker(**district, icon = icon, radius = 2)
+        
+        #4. Add the Marker
+        marker.add_to(map)
   
-
+    return
 
 
 

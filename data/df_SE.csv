@@ -5,11 +5,11 @@ Starbucks,"515 Westlake Ave N (Mercer), Seattle, WA 98109",Belltown,47.624391,-1
 Starbucks,"1524 7th Ave (btwn Pike St & Pine St), Seattle, WA 98101",Belltown,47.612305,-122.333717,Coffee,1517.53
 Starbucks,"2011 7th Ave (at Westlake Ave), Seattle, WA 98121",Belltown,47.615023,-122.338462,Coffee,1423.61
 Starbucks,"1200 Westlake Ave N, Seattle, WA 98109",Cascade,47.630064,-122.340029,Coffee,1131.16
-Starbucks,"1912 Pike Pl, Seattle, WA 98101",Belltown,47.610031,-122.342568,Coffee,2053.65
 Starbucks,"1101 Madison St, Seattle, WA 98104",Downtown,47.609385,-122.324251,Coffee,1762.82
 Starbucks,"1410 E John St, Seattle, WA 98112",Broadway,47.62026,-122.313226,Coffee,1159.55
 Starbucks,"1700 7th Ave (at Stewart St), Seattle, WA 98101",Belltown,47.614278,-122.335934,Coffee,1387.26
 Starbucks,"601 Union St, Seattle, WA 98101",CBD,47.610247,-122.332452,Coffee,1708.62
+Starbucks,"800 12th Ave (at Columbia St), Seattle, WA 98122",Central Area,47.609449,-122.316517,Coffee,1910.12
 Capitol Hill Cooperative Preschool,"1200 10th Ave E (at East Highland Dr), Seattle, WA 98102",Broadway,47.630635,-122.31988,Preschool,805.01
 KinderCare Learning Center,"1827 8th Ave, Seattle, WA 98101",Belltown,47.614661,-122.335244,Preschool,1324.89
 Bertschi School,"2227 10th Ave E, Seattle, WA 98102",Capitol Hill,47.639208,-122.320339,Preschool,1638.85
@@ -37,9 +37,9 @@ In the Bowl Vegetarian Noodle Bistro,"1554 E Olive Way (at Denny Way), Seattle, 
 Cinnamon Works,"1536 Pike Pl (at Pine St), Seattle, WA 98101",CBD,47.609313,-122.341399,Vegan restaurant,2071.77
 World Pizza,"672 S King St (at 7th Ave), Seattle, WA 98104",Chinatown,47.598458,-122.324181,Vegan restaurant,2973.61
 Harry's Fine Foods,"600 Bellevue Ave E, Seattle, WA 98102",Broadway,47.624389,-122.326931,Vegan restaurant,83.89
-Espresso Vivace,"532 Broadway E (at E Republican St), Seattle, WA 98102",Broadway,47.62371,-122.320657,Vegan restaurant,492.52
 Tacos Chukis C,"219 Broadway E (btwn Thomas & John St.), Seattle, WA 98102",Broadway,47.620495,-122.321223,Vegan restaurant,668.08
 Molly Moon's Homemade Ice Cream,"917 E Pine St (at 10th Ave), Seattle, WA 98122",Broadway,47.615126,-122.319958,Vegan restaurant,1228.46
+Cherry Street Coffee,"500 Fairview Ave N, Seattle, WA 98109",Capitol Hill,47.623376,-122.334119,Vegan restaurant,580.04
 REX Seattle Pet Grooming & Spa,"1402 12th Ave (at Madison), Seattle, WA 98122",Capitol Hill,47.613053,-122.316537,Pet hairdresser,1551.93
 Just Around the Corner Dog Grooming and Boutique,"619 Queen Anne Ave N, Seattle, WA 98109",Lower Queen Anne,47.625141,-122.356987,Pet hairdresser,2264.65
 Wag N' Wash Natural Pet Food & Grooming,"1932 Queen Anne Ave N, Seattle, WA 98109",East Queen Anne,47.63692,-122.356645,Pet hairdresser,2593.57
