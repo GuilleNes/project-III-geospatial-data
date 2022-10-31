@@ -1,0 +1,50 @@
+name,address,neighborhood,lat,lon,category,Distance
+Company,"662 Mission St, San Francisco, CA 94105",Soma,37.7871253,-122.4015358,,0.0
+Starbucks,"299 Fremont St (Folsom St), San Francisco, CA 94105",Chinatown,37.788371,-122.393555,Coffee,716.46
+Starbucks,"789 Mission St (at 4th St), San Francisco, CA 94103",Civic Center,37.78447,-122.404008,Coffee,366.45
+Starbucks,"7 Drumm St (California), San Francisco, CA 94111",Chinatown,37.793818,-122.396678,Coffee,857.26
+Starbucks,"462 Powell St (at Sutter St), San Francisco, CA 94102",Chinatown,37.789098,-122.408438,Coffee,646.2
+Starbucks,"390 Stockton St (at Sutter St), San Francisco, CA 94108",Chinatown,37.789293,-122.406729,Coffee,516.86
+Starbucks,"44 Montgomery St (btwn Sutter & Market St), San Francisco, CA 94104",Financial District,37.789599,-122.401872,Coffee,276.15
+Starbucks,"74 New Montgomery St (at Jessie St), San Francisco, CA 94105",Financial District,37.787664,-122.401113,Coffee,70.44
+Starbucks,"565 Clay St (at Montgomery St), San Francisco, CA 94111",Chinatown,37.794601,-122.402669,Coffee,835.73
+Starbucks,"264 Kearny St (at Bush St), San Francisco, CA 94108",Chinatown,37.790652,-122.403869,Coffee,442.11
+Starbucks,"150 Van Ness Ave (Hayes St), San Francisco, CA 94102",Civic Center,37.777119,-122.419416,Coffee,1927.28
+True Sunshine Preschool Center,"777 Stockton St (Sacramento), San Francisco, CA 94108",Chinatown,37.792767,-122.407866,Preschool,838.45
+Apple Tree Preschool,"85 Columbia Sq (btwn Folsom & Harrison St), San Francisco, CA 94103",South Of Market,37.777038,-122.405075,Preschool,1162.21
+Seabird Preschool,"3 Stark Aly, San Francisco, CA 94133",Chinatown,37.797109,-122.407907,Preschool,1242.11
+Golden Gate Guppies Preschool,"2426 California St (Fillmore Street), San Francisco, CA 94115",Lower Pacific Heights,37.789035,-122.434456,Preschool,2907.5
+Yerba Buena Gardens Child Development Center,"790 Folsom St, San Francisco, CA 94107",South Beach,37.78246,-122.400807,Preschool,521.78
+Saint Marys Chinese Day School,"838 Kearny St (btwn Washington & Jackson St), San Francisco, CA 94108",Chinatown,37.795777,-122.404818,Preschool,1002.85
+KinderCare Learning Center,"90 7th St (Stevenson), San Francisco, CA 94103",Civic Center,37.779296,-122.411875,Preschool,1258.84
+LePort School,"50 Fell St, San Francisco, CA 94102",Civic Center,37.776344,-122.418868,Preschool,1939.89
+826 Valencia Mission Bay,"1310 4th St, San Francisco, CA 94158",Mission Bay,37.771561,-122.391634,Preschool,1935.26
+Montessori House Of Children,"1187 Franklin St, San Francisco, CA 94109",Cathedral Hill,37.785183,-122.423333,Preschool,1932.11
+Club Six,"60 6th St (btwn Market & Mission St), San Francisco, CA 94103",Civic Center,37.781406,-122.40949,Club,945.47
+Cat Club,"1190 Folsom St (at 8th St), San Francisco, CA 94103",Civic Center,37.775367,-122.409851,Club,1496.6
+The Great Northern,"119 Utah St (at 15th St), San Francisco, CA 94103",Inner Mission,37.767481,-122.40659,Club,2225.37
+Jolene's Bar,"2700 16th St, San Francisco, CA 94103",Inner Mission,37.765554,-122.413429,Club,2613.47
+F8 1192 Folsom,"1192 Folsom St (8th), San Francisco, CA 94103",Civic Center,37.775283,-122.409986,Club,1510.56
+DNA Lounge,"375 11th St (at Harrison St), San Francisco, CA 94103",Civic Center,37.771002,-122.412675,Club,2040.96
+Audio Nightclub,"316 11th St (btwn Folsom & Harrison), San Francisco, CA 94103",Civic Center,37.771462,-122.413921,Club,2052.52
+Bootie San Francisco,"375 11th St (at Harrison St), San Francisco, CA 94103",Civic Center,37.771002,-122.412675,Club,2040.96
+Breakfast of Champions,"817 Terry A Francois Blvd (between Illinois St & Mariposa St), San Francisco, CA 94158",Inner Mission,37.767936,-122.406617,Club,2176.4
+1015 Folsom,"1015 Folsom St (at 6th St), San Francisco, CA 94103",South Of Market,37.778128,-122.405784,Club,1066.45
+Enjoy Vegetarian Restaurant,"839 Kearny St (at Washington St.), San Francisco, CA 94108",Chinatown,37.795717,-122.405173,Vegan restaurant,1005.99
+Golden Era Vegan Restaurant,"395 Golden Gate Ave, San Francisco, CA 94102",Civic Center,37.781359,-122.416942,Vegan restaurant,1500.46
+Thai Idea Vegetarian Restaurant,"710 Polk St (at Eddy St), San Francisco, CA 94109",Civic Center,37.783391,-122.418998,Vegan restaurant,1593.07
+Chisme Cantina,"882 Sutter St (Leavenworth St), San Francisco, CA 94109",Little Saigon,37.788531,-122.415,Vegan restaurant,1196.21
+The Lucky Creation Vegetarian Restaurant,"854 Washington St (btwn Stockton & Ross), San Francisco, CA 94108",Chinatown,37.795174,-122.407148,Vegan restaurant,1020.99
+Asha Tea House,"17 Kearny St (Market Street), San Francisco, CA 94108",Financial District,37.788248,-122.403728,Vegan restaurant,229.82
+DragonEats,"555 Folsom St (at Essex St), San Francisco, CA 94105",Rincon Hill,37.786473,-122.395307,Vegan restaurant,553.43
+Darwin Cafe,"212 Ritch St (at Bryant St), San Francisco, CA 94107",South Beach,37.780651,-122.396255,Vegan restaurant,856.03
+Philz Coffee,"300 Folsom St (at Beale St), San Francisco, CA 94105",Chinatown,37.788794,-122.39315,Vegan restaurant,761.53
+Blue Bottle Coffee,"168 2nd St (between Natoma St and Howard St), San Francisco, CA 94105",Financial District,37.787021,-122.398866,Vegan restaurant,235.46
+Chase Center Stadium,"1 Warriors Way, San Francisco, CA 94158",Mission Bay,37.767935,-122.387335,Basketball arena,2470.21
+Bernie's Grooming City Dogs,"177 Brannan St (Delancey St), San Francisco, CA 94107",Mission Bay,37.783824,-122.389344,Pet hairdresser,1134.74
+Nova Express Personal Grooming Services,"21 Columbus Ave (Washington), San Francisco, CA 94111",Chinatown,37.795567,-122.40348,Pet hairdresser,952.49
+Via V'dell Executive Grooming Barber Shop,"166 Geary St, San Francisco, CA 94108",Chinatown,37.787749,-122.405993,Pet hairdresser,398.67
+Details Barbershop and Grooming Lounge,"166 Geary St, San Francisco, CA 94108",Chinatown,37.787879,-122.406001,Pet hairdresser,402.12
+Tae Hee's Grooming Pet Supply,"580 Bush St, San Francisco, CA 94108",Chinatown,37.790556,-122.406876,Pet hairdresser,605.19
+San Francisco International Airport (SFO),"at Link Rd, San Francisco, CA 94128",S,37.624123,-122.395506,Airport,18099.59
+Oakland International Airport (OAK),"1 Airport Dr, Oakland, CA 94621",O,37.7117,-122.212997,Airport,18605.79

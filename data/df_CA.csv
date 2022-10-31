@@ -1,0 +1,42 @@
+name,address,neighborhood,lat,lon,category,Distance
+Company,"5, John F. Kennedy St, Cambridge, MA 02138",West Cambridge,42.3731956,-71.1198561,,0.0
+Starbucks,"1662 Massachusetts Ave (at Shepard St), Cambridge, MA 02138",Central Square,42.382029,-71.119939,Coffee,981.24
+Starbucks,"468 Broadway (at Broadway Marketplace), Cambridge, MA 02138",Central Square,42.373858,-71.112954,Coffee,573.23
+Starbucks,"711 Somerville Ave (at Elm St), Somerville, MA 02143",Central Square,42.386097,-71.114168,Coffee,1507.72
+Starbucks,"217 Western Ave, Boston, MA 02134",Allston,42.363412,-71.130402,Coffee,1391.28
+Starbucks,"750 Memorial Dr, Cambridge, MA 02139",Allston,42.358,-71.115075,Coffee,1733.27
+Starbucks,"370 Western Ave, Brighton, MA 02135",North Brighton,42.360988,-71.137756,Coffee,2003.21
+Starbucks,"699 Mount Auburn St, Cambridge, MA 02138",Larchwood,42.375352,-71.148982,Coffee,2410.84
+Starbucks,"1065 Commonwealth Ave, Boston, MA 02215",Allston,42.3525,-71.123479,Coffee,2318.17
+Starbucks,"1304 Commonwealth Ave, Boston, MA 02134",Allston-Brighton,42.348482,-71.134065,Coffee,2984.34
+Starbucks,"775 Commonwealth Ave, Boston, MA 02215",Cambridgeport,42.350925,-71.108782,Coffee,2636.68
+Agassiz Preschool,"1803 Massachusetts Ave (Rose), Cambridge, MA 02140",Avon Hill,42.386695,-71.118798,Preschool,1502.05
+Agassiz Preschool,"184 Summer St (Spring St), Somerville, MA 02143",Central Square,42.386926,-71.108152,Preschool,1804.24
+King Open Extended Day,"870 Cambridge St, Cambridge, MA 02141",East Somerville,42.372329,-71.091326,Preschool,2351.87
+KinderCare Learning Center,"18 Holland St, Somerville, MA 02144",Avon Hill,42.397394,-71.123566,Preschool,2705.28
+Kiddie Academy of Cambridge,"299 Prospect St, Cambridge, MA 02139",East Somerville,42.372829,-71.098869,Preschool,1729.08
+Bright Horizons at Kendall Square,"286 Cardinal Medeiros Ave, Cambridge, MA 02141",East Cambridge,42.368721,-71.090174,Preschool,2494.86
+Bright Horizons at Davis Square,"99A Dover St, Somerville, MA 02144",Avon Hill,42.396516,-71.123856,Preschool,2611.31
+Bright Horizons at Mass Ave,"2465 Massachusetts Ave, Cambridge, MA 02140",Central Square,42.398758,-71.131518,Preschool,2997.49
+Oberon,"2 Arrow St (at Massachusetts Ave), Cambridge, MA 02138",Allston,42.370838,-71.114238,Club,531.71
+Havana Club,"288 Green St, Cambridge, MA 02139",Allston,42.364702,-71.104371,Club,1586.53
+Sonia,"10 Brookline St, Cambridge, MA 02139",Back Bay,42.363498,-71.101604,Club,1849.53
+Club Eagle Claw,"46 Dana St, Cambridge, MA 02138",Central Square,42.371997,-71.108668,Club,931.08
+Garage Boston,"20 Linden St, Boston, MA 02134",Allston,42.355345,-71.130625,Club,2172.25
+Wonder Bar,"186 Harvard Ave (at Commonwealth Ave.), Allston, MA 02134",Allston,42.350955,-71.131082,Club,2637.91
+Club E N Vy Allston,"20 Linden St, Allston, MA 02134",Allston,42.355839,-71.130569,Club,2120.35
+Paradise Lounge,"967 Commonwealth Ave, Boston, MA 02215",Allston,42.351901,-71.119392,Club,2365.72
+Teknohaus,"528 Cambridge St (Imrie Rd), Allston, MA 02134",Allston-Brighton,42.352755,-71.139197,Club,2773.79
+Club Passim,"47 Palmer St (Brattle St), Cambridge, MA 02138",Harvard Square,42.374016,-71.119847,Club,91.13
+Veggie Galaxy,"450 Massachusetts Ave (at Brookline), Cambridge, MA 02139",Back Bay,42.363553,-71.101107,Vegan restaurant,1879.47
+Life Alive,"765 Massachusetts Ave (at Inman St.), Cambridge, MA 02139",Central Square,42.366567,-71.10532,Vegan restaurant,1405.61
+Clover Food Lab,"1075 Cambridge St (at Elm St), Cambridge, MA 02139",East Somerville,42.373162,-71.095075,Vegan restaurant,2041.1
+Clover HFI,"496 Massachusetts Ave (at Brookline St), Cambridge, MA 02139",Allston,42.363991,-71.101818,Vegan restaurant,1803.62
+Clover,"5 Cambridge Ctr (at Dock St), Cambridge, MA 02142",Back Bay,42.362797,-71.087425,Vegan restaurant,2910.43
+Black Sheep Bagel Cafe,"56 Jfk St, Cambridge, MA 02138",Allston,42.371874,-71.12048,Vegan restaurant,155.54
+Sweetgreen,"39 Jfk St, Cambridge, MA 02138",Allston,42.372863,-71.120188,Vegan restaurant,45.96
+Felipe's Mexican Taqueria,"21 Brattle St, Cambridge, MA 02138",Allston,42.373521,-71.120624,Vegan restaurant,72.85
+Alden & Harlow,"40 Brattle St (Church St), Cambridge, MA 02138",Allston,42.373567,-71.12141,Vegan restaurant,134.47
+JP Licks,"1312 Massachusetts Ave (btwn Holyoke & Linden), Cambridge, MA 02138",Allston,42.372865,-71.117574,Vegan restaurant,191.52
+TD Garden,"100 Legends Way, Boston, MA 02114",Downtown,42.366258,-71.062211,Basketball arena,4810.32
+Boston Logan International Airport (BOS),"1 Harborside Dr (at I-90), Boston, MA 02128",B,42.364533,-71.021729,Airport,8139.86

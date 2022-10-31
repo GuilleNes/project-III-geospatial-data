@@ -1,0 +1,34 @@
+name,address,neighborhood,lat,lon,category,Distance
+Company,"1-2 More London Pl, London",Southwark,51.505024,-0.080416,,0.0
+Starbucks,"49 Shad Thames, London, Greater London, SE1 2NJ",L,51.504041,-0.075553,Coffee,354.93
+Starbucks,"3 Tower Pl (East Building), London, Greater London, EC3R 5BT",L,51.508576,-0.079207,Coffee,404.0
+Starbucks,"The Shard Arcade (London Bridge St), London, Greater London, SE1 9SG",L,51.505072,-0.087198,Coffee,470.92
+Starbucks,"54 Tooley St, Bridge, Greater London, SE1 9SP",L,51.505487,-0.085133,Coffee,331.54
+Starbucks,"87 King William St (at Lombard St), London, Greater London, EC4N 7BJ",L,51.512658,-0.088076,Coffee,1002.1
+Starbucks,"117-119 Houndsditch (Cutler St), London, Greater London, EC3A 7BT",L,51.515524,-0.078639,Coffee,1174.71
+Starbucks,"223-227 Borough High St, London, Greater London, SE1 1JD",L,51.500845,-0.093249,Coffee,1005.08
+Starbucks,"The Gallery, Bankside 1 (Sumner St), Southwark, Greater London, SE1 9TG",L,51.506477,-0.100169,Coffee,1380.98
+Starbucks,"11 Leadenhall St, London, Greater London, EC3V 1LP",L,51.513328,-0.082907,Coffee,939.93
+Starbucks,"59 Broadgate Link, London, Greater London, EC2M 7PY",L,51.517585,-0.080864,Coffee,1397.86
+Wapping Childrens Centre,"Poplar, Greater London",P,51.505373,-0.059367,Preschool,1462.0
+Montessori by Busy Bees Green Gables,"4 Wapping Lane, London, Greater London, E1W 2RG",L,51.509091,-0.058476,Preschool,1589.07
+Hatching Dragons,"Ironmongers Hall Shaftesbury Pl, Barbican, London, Greater London, EC2Y 8AA",L,51.518113,-0.096477,Preschool,1834.1
+Hatching Dragons,"1 Viscount St, London, Greater London, EC1Y 0AA",L,51.522868,-0.093033,Preschool,2169.91
+Alice Model Nursery School,"14 Beaumont Grove, London, Greater London, E1 4NQ",L,51.521101,-0.046489,Preschool,2957.46
+Ministry of Sound,"103 Gaunt St, London, Greater London, SE1 6DP",Elephant & Castle,51.497637,-0.099503,Club,1559.51
+The Steelyard,"Allhallow St, London, Greater London, EC4R 3UL",Fleet Street,51.510136,-0.090236,Club,887.87
+Fabric,"77A Charterhouse St (Cowcross St), London, Greater London, EC1M 6HJ",Clerkenwell,51.51962,-0.10252,Club,2234.24
+La Pollera Colora,"4-6 London Bridge St, London, Greater London, SE1 9SG",Southwark,51.505337,-0.088502,Club,562.51
+Xoyo,"Cowper St, London, Greater London, EC2A 4AP",The City,51.525468,-0.085864,Club,2305.79
+What the Pitta,"Boxpark Retail Mall, London, Greater London, E1 6GY",L,51.523478,-0.076177,Vegan restaurant,2074.14
+Mallow,"1 Cathedral St, London, Greater London, SE1 9DE",L,51.506246,-0.090382,Vegan restaurant,705.19
+Vegan Nights London,"London, Greater London",L,51.52158,-0.071563,Vegan restaurant,1941.81
+Unity Diner,"60 Wentworth St, London, Greater London, E1 7AL",L,51.516719,-0.073791,Vegan restaurant,1380.06
+Vegan Yes,"64 Brick Lane, London, Greater London, E1 6QL",L,51.518675,-0.071226,Vegan restaurant,1647.34
+Sagar,"31 Catherine St, London, Greater London, WC2B 5JS",L,51.512514,-0.120579,Vegan restaurant,2910.26
+Vida Bakery,"139 Brick Lane, London, Greater London, E1 6SB",L,51.523843,-0.071742,Vegan restaurant,2178.63
+Borough Market,"8 Southwark St, London, Greater London, SE1 1TL",L,51.505451,-0.090721,Vegan restaurant,717.08
+Padella,"6 Southwark St (at Bedale St), London, Greater London, SE1 1TQ",L,51.50516,-0.089983,Vegan restaurant,664.44
+Monmouth Coffee Company,"2 Park St (The Borough), London, Greater London, SE1 9AB",L,51.505523,-0.091501,Vegan restaurant,771.66
+London Heathrow Airport (LHR),"The Compass Centre, Nelson Rd, Hounslow, Greater London, TW6 2GW",H,51.470012,-0.454478,Airport,26272.5
+London City Airport (LCY),"Royal Docks, London, Greater London, E16 2PX",L,51.503297,0.050112,Airport,9065.14

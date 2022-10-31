@@ -20,3 +20,23 @@ def add_company(dfr, address, neigh, lat, lon):
     new_row = {'name': "Company",'address': address,'neighborhood': neigh,'lat': lat,"lon": lon,
     "type": {"typepoint": {"type": "Point","coordinates": [lat, lon]}}}
     return dfr.append(new_row,ignore_index=True)
+
+
+def join_df():
+    df_CA = pd.read_csv("../Data/df_CA.csv")
+    df_CA = df_CA.iloc[1:]
+    df_CA["City"] = "Cambridge"
+    df_SF = pd.read_csv("../Data/df_SF.csv")
+    df_SF = df_SF.iloc[1:]
+    df_SF["City"] = "San Francisco"
+    df_SE = pd.read_csv("../Data/df_SE.csv")
+    df_SE = df_SE.iloc[1:]
+    df_SE["City"] = "Seattle"
+    df_CH = pd.read_csv("../Data/df_CH.csv")
+    df_CH = df_CH.iloc[1:]
+    df_CH["City"] = "Chicago"
+    df_LO = pd.read_csv("../Data/df_LO.csv")
+    df_LO = df_LO.iloc[1:]
+    df_LO["City"] = "London"
+    
+    return pd.concat([df_CA, df_SF, df_SE, df_CH, df_LO], axis=0).reset_index(drop= True)

@@ -49,7 +49,7 @@ def do_subset(dfr, city):
     return  dfr.loc[dfr['City'] == city]
 
 
-#----------------------------------------------------
+#---------------------------------------------------- Foursquare API
 
 # Getting results from foursquare through the API
 
@@ -148,7 +148,6 @@ def calc_distance_CA(x):
 # df_SE["Distance"] = df_SE.apply(fun.calc_distance_SE, axis = 1).round(2)
 
 
-
 # We clean the results from the API keeping only the values that we need, only for London
 
 def clean_results_first_lo(df_, categ):
@@ -176,3 +175,57 @@ def clean_results_lo(df_, dfr, categ):
         new_list.append({"name":name, "category": categ, "address": address, 'neighborhood': neighborhood, "lat":lat, "lon":lon})
     df = pd.DataFrame(new_list)
     return pd.concat([dfr, df], axis=0).reset_index(drop= True)
+
+
+# ------------------------------------------------------------------------------------------------- Ponderations
+
+# Getting the values for wheighting our cities
+
+def get_df(dfr):
+    index = pd.Index(['Airport','Basketball arena','Club','Coffee','Pet hairdresser',"Preschool","Vegan restaurant"], name = "Category")
+    dfr = pd.DataFrame({'Weight':[0.2,0.1,0.15,0.15,0.05,0.2,0.15]}, index=index)
+    return
+# df_CA = pd.read_csv("../Data/df_CA.csv")
+# df_CA = df_CA.iloc[1:]
+
+def get_weight(dfr, df1):
+
+    mean_distance = df1.groupby("category").mean("Distance").drop(["lat", "lon"], axis = 1)
+    dfr = pd.concat([dfr, mean_distance], axis=1)
+    dfr = dfr.rename({'Distance': 'Mean'}, axis=1)
+
+    max_distance = df1.groupby("category").max("Distance").drop(["lat", "lon"], axis = 1)
+    dfr = pd.concat([dfr, max_distance], axis=1)
+    dfr = dfr.rename({'Distance': 'Max'}, axis=1)
+
+    min_distance = df1.groupby("category").min("Distance").drop(["lat", "lon"], axis = 1)
+    dfr = pd.concat([dfr, min_distance], axis=1)
+    dfr = dfr.rename({'Distance': 'Min'}, axis=1)
+
+    return dfr
+
+
+def final_result(dfr, city):
+    if dfr['Mean'].isnull().values.any():
+        dfr = dfr.fillna(3000)
+        dfr['Final Result'] = round(dfr["Mean"] * dfr["Weight"], 2)
+        
+
+    else:
+        dfr['Final Result'] = round(dfr["Mean"] * dfr["Weight"], 2)
+
+    final_r = dfr["Final Result"].sum().round(2)
+    print(f"The final result for {city} is {final_r}")
+    return dfr
+
+
+
+
+  
+
+
+
+
+
+
+
