@@ -216,6 +216,7 @@ def final_result(dfr, city):
         dfr['Final Result'] = round(dfr["Mean"]/dfr["Radius"] * dfr["Weight factor"], 2)
 
     final_r = dfr["Final Result"].sum().round(2)
+    
     return f"The final result for {city} is {final_r}"
 
 
