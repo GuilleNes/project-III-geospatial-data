@@ -1,0 +1,9 @@
+name,number_of_employees,Country,Zip_code,City,Address,Lat,Long,City_count
+ReachLocal,1700,GBR,,London,2 Queen Caroline St.,41.53155,-72.188584,8
+7digital,120,GBR,EC2A 2BB,London,69 Wilson Sreet,51.5254,-0.083726,8
+Huddle,200,GBR,EC1Y 2BP,London,"1st Floor, Transworld House,",51.4999065,-0.0814873,8
+ShipServ,100,GBR,W4 5YA,London,"Building 3, Chiswick Park",51.4629038,-0.263377,8
+ControlCircle,105,GBR,E14 9FH,London,221 Marsh Wall,51.5003204,-0.0178689,8
+Red Engineering Design,100,GBR,W1T 3NJ,London,Woolverstone House,51.5234209,-0.1398614,8
+Autoquake,100,GBR,NW1 5RA,London,Winchester House,51.543337,-0.172364,8
+Tribold,106,GBR,W1W 5NA,London,19 Bolsover Street,51.5209358,-0.1424094,8

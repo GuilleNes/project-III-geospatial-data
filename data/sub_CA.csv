@@ -1,0 +1,7 @@
+name,number_of_employees,Country,Zip_code,City,Address,Lat,Long,City_count
+Brightcove,220,USA,02142,Cambridge,One Cambridge Center,42.362993,-71.086596,6
+HubSpot,650,USA,02141,Cambridge,25 First St.,42.375392,-71.118487,6
+Endeca,500,USA,02142,Cambridge,101 Main Street,42.36233,-71.081527,6
+PatientsLikeMe,200,USA,02141,Cambridge,155 Second Street,42.3674989,-71.0793952,6
+MetaCarta,99999,USA,02139,Cambridge,350 Massachusetts Ave,42.36236,-71.099692,6
+Basho Technologies,110,USA,02139,Cambridge,700 Massachusetts Ave.,42.365867,-71.092285,6

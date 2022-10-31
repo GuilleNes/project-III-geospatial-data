@@ -1,0 +1,9 @@
+name,number_of_employees,Country,Zip_code,City,Address,Lat,Long,City_count
+Redfin,100,USA,98121,Seattle,2025 1st Ave,47.603122,-122.333253,8
+PayScale,130,USA,98104,Seattle,542 First Ave South,47.5999337,-122.3276962,8
+Zillow,600,USA,98101,Seattle,,47.6011125,-122.3293984,8
+Moz,130,USA,98101,Seattle,"119 Pine Street, Suite 400",47.620716,-122.347533,8
+Daptiv,150,USA,98104,Seattle,1008 Western Avenue,47.604279,-122.337437,8
+thePlatform,130,USA,98104,Seattle,1000 2nd Avenue,47.617838,-122.356027,8
+Skytap,200,USA,98104,Seattle,710 2nd Avenue,47.544341,-122.334732,8
+Z2Live,130,USA,98101,Seattle,1601 2nd Ave,47.6103008,-122.3399782,8

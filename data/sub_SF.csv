@@ -1,0 +1,51 @@
+name,number_of_employees,Country,Zip_code,City,Address,Lat,Long,City_count
+Twitter,1300,USA,94103,San Francisco,1355 Market St.,37.7768052,-122.4169244,50
+Ustream,250,USA,94107,San Francisco,410 Townsend,37.392936,-122.07948,50
+Yelp,800,USA,94103,San Francisco,706 Mission Street,37.786183,-122.402195,50
+Eventbrite,200,USA,94107,San Francisco,651 Brannan,37.779507,-122.39071,50
+PowerReviews,120,USA,94103,San Francisco,22 4th Street,37.779558,-122.393041,50
+hi5,100,USA,94105,San Francisco,55 Second Street,37.788668,-122.400558,50
+Tagged,162,USA,94119-3152,San Francisco,P.O. Box 193152,37.7753,-122.4186,50
+Dropbox,350,USA,94107,San Francisco,,37.7909427,-122.4084994,50
+Trulia,500,USA,94501,San Francisco,116 New Montgomery,37.766909,-122.406676,50
+OpenTable,550,USA,,San Francisco,One Montgomery,37.785647,-122.405265,50
+Blurb,150,USA,94104,San Francisco,580 California St.,37.792968,-122.40414,50
+The Climate Corporation,150,USA,94103,San Francisco,201 Third Street,37.782809,-122.394354,50
+Automattic,200,USA,94107,San Francisco,132 Hawthorne St,37.744274,-122.421344,50
+Splunk,500,USA,94107,San Francisco,250 Brannan St.,37.78274,-122.390945,50
+Deem,400,USA,94105,San Francisco,301 Howard Street,37.559836,-122.271532,50
+Zynga,115,USA,94103,San Francisco,365 Vermont St.,37.765158,-122.404234,50
+Coverity,300,USA,94107,San Francisco,185 Berry Street,37.7759675,-122.3931128,50
+Flurry,150,USA,94107,San Francisco,360 3rd Street,37.783046,-122.394067,50
+99designs,100,USA,94111,San Francisco,447 Battery St.,37.7955307,-122.4005983,50
+LiveRail,110,USA,94105,San Francisco,575 Market St.,37.787183,-122.397759,50
+OpenDNS,200,USA,94107,San Francisco,145 Bluxome,37.789268,-122.395184,50
+Wikimedia Foundation,143,USA,94105,San Francisco,149 New Montgomery St.,37.76785,-122.392839,50
+RichRelevance,250,USA,94107,San Francisco,633 Folsom St.,37.7938969,-122.4000965,50
+SquareTrade,190,USA,94105,San Francisco,575 Market Street,37.789551,-122.40036,50
+GitHub,106,USA,94107,San Francisco,275 Brannan St.,37.775196,-122.419204,50
+Tealeaf,100,USA,94105,San Francisco,45 Fremont St.,37.791242,-122.397133,50
+Kabam,650,USA,94107,San Francisco,795 Folsom Street,37.3944561,-122.0785314,50
+Cloudmark,100,USA,94107,San Francisco,128 King Street,37.779507,-122.39071,50
+TRUSTe,130,USA,94103,San Francisco,835 Market Street,37.7886685,-122.4005576,50
+Practice Fusion,280,USA,94102,San Francisco,420 Taylor Street,37.7886717,-122.392725,50
+InsideView,150,USA,94107,San Francisco,444 De Haro Street,37.764169,-122.402021,50
+WideOrbit,350,USA,94111,San Francisco,1160 Battery,37.7895289,-122.3885899,50
+Achievers,150,USA,94105,San Francisco,181 Fremont Street,43.637296,-79.425455,50
+Zendesk,400,USA,94102,San Francisco,989 Market St,55.676294,12.568116,50
+Minted,115,USA,94111,San Francisco,747 Front Street,37.797435,-122.403175,50
+Appirio,500,USA,94102,San Francisco,760 Market Street,37.5552776,-122.2997532,50
+ngmoco,150,USA,94107,San Francisco,185 Berry Street,37.7705096,-122.4015807,50
+Lyft,180,USA,94104,San Francisco,,37.7899027,-122.4007846,50
+Yammer,400,USA,94103,San Francisco,1355 Market St,37.776246,-122.4179223,50
+Lyft,180,USA,94104,San Francisco,,37.7899027,-122.4007846,50
+Yammer,400,USA,94103,San Francisco,1355 Market St,37.776246,-122.4179223,50
+Mindjet,200,USA,94111,San Francisco,1160 Battery Street East,50.095312,9.049981,50
+Twilio,100,USA,94107,San Francisco,"645 Harrison, 3rd Floor",37.7898499,-122.4006831,50
+LoopNet,300,USA,94107,San Francisco,185 Berry Street,37.7759421,-122.3931139,50
+Skout,100,USA,94105,San Francisco,301 Howard,37.7800539,-122.3912492,50
+Unity Technologies,200,USA,94107,San Francisco,795 Folsom,55.6924605,12.530107,50
+Birst,150,USA,94108,San Francisco,153 Kearny Street,37.789471,-122.404113,50
+Canopy Financial,100,USA,94105,San Francisco,201 Spear St.,37.791388,-122.392148,50
+Sunrun,180,USA,94105,San Francisco,"45 Fremont Street, 32nd Floor",37.7871306,-122.4041075,50
+ZoomSystems,100,USA,94103,San Francisco,"22 4th Street, Floor 16",37.781689,-122.391061,50

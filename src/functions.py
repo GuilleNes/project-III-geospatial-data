@@ -1,11 +1,7 @@
-import os
 import requests
-import json
 from dotenv import load_dotenv
 import pandas as pd
-import pymongo
 import geopandas as gpd
-from cartoframes.viz import Map, Layer, popup_element
 import geopy
 
 # We create a function to collect data from the offices column(country code, address, lat&long...).
@@ -47,6 +43,12 @@ def keep_value(dfra, column, value):
     dfra.reset_index(drop=True, inplace=True)
     return dfra
 
+# Getting subsets from our different cities
+
+def do_subset(dfr, city):
+    return  dfr.loc[dfr['City'] == city]
+
+
 #----------------------------------------------------
 
 # Getting results from foursquare through the API
@@ -62,6 +64,17 @@ def get_results(query, location, limit, radius, token):
     response = requests.get(url, headers=headers).json()
     return response
 
+# And we use this function only for the airports
+
+def get_results_airport(query, location, limit, radius, token):
+    ll = f"{location[0]}%2C{location[1]}"   
+    url =f'https://api.foursquare.com/v3/places/search?query={query}&ll={ll}&radius={radius}&categories=19040&limit={str(limit)}'      
+    headers = {
+        "accept": "application/json",
+        "Authorization": token, 
+    }
+    response = requests.get(url, headers=headers).json()
+    return response
 
 # We clean the results from the API keeping only the values that we need
 
@@ -106,8 +119,6 @@ def calc_distance_SF(x):
 
 # df_SF["Distance"] = df_SF.apply(fun.calc_distance_SF, axis = 1).round(2)
 
-
-
 def calc_distance_SE(x):
     site_coords = (47.6251419,-122.3268577)
     place2_coords = (x.lat, x.lon)
@@ -117,6 +128,20 @@ def calc_distance_SE(x):
 
 def calc_distance_CH(x):
     site_coords = (41.869276, -87.626694)
+    place2_coords = (x.lat, x.lon)
+    return (geopy.distance.geodesic(site_coords, place2_coords).km)*1000
+
+# df_SE["Distance"] = df_SE.apply(fun.calc_distance_SE, axis = 1).round(2)
+
+def calc_distance_LO(x):
+    site_coords = (51.505024, -0.080416)
+    place2_coords = (x.lat, x.lon)
+    return (geopy.distance.geodesic(site_coords, place2_coords).km)*1000
+
+# df_SE["Distance"] = df_SE.apply(fun.calc_distance_SE, axis = 1).round(2)
+
+def calc_distance_CA(x):
+    site_coords = (42.3731956,-71.1198561)
     place2_coords = (x.lat, x.lon)
     return (geopy.distance.geodesic(site_coords, place2_coords).km)*1000
 

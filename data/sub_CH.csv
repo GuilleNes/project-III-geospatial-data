@@ -1,0 +1,8 @@
+name,number_of_employees,Country,Zip_code,City,Address,Lat,Long,City_count
+GrubHub,250,USA,60602,Chicago,111 W. Washington St.,41.907647,-87.649878,7
+Acquity Group,500,USA,60606,Chicago,500 West Madison Street,41.881876,-87.639713,7
+SAVO,130,USA,60606,Chicago,155 N Wacker Drive,41.87675,-87.640458,7
+Groupon,10000,USA,60654,Chicago,600 W. Chicago Ave,41.8965162,-87.643622,7
+Model Metrics,120,USA,60654,Chicago,600 West Chicago Ave,41.8961282,-87.6371628,7
+Centro,300,USA,60654,Chicago,222 W Hubbard St.,41.889853,-87.6355433,7
+Initiate Systems,280,USA,60606,Chicago,200 West Madison Street,41.882301,-87.634311,7
