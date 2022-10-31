@@ -105,7 +105,8 @@ fun.mapping_results(df_CH, CH_map)
     height="400"
     src="https://guillenes.github.io./">
 </iframe>
-<iframe src="https://giphy.com/embed/l46C9VsWTWD9CHocg" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/l46C9VsWTWD9CHocg" style="font-size:10px">via GIPHY</a></p>
+
+![giphy](https://user-images.githubusercontent.com/112824189/199121838-f8ecd2ac-9694-49da-b0aa-ac59b4a81428.gif)
 
 Finally, in order to to get the final result for each city, we just apply a simple math formulation to the grouped data for each city. To this calculation we multiplied the value of the wheight of each category to get the final selected city.
 
@@ -113,7 +114,8 @@ Finally, in order to to get the final result for each city, we just apply a simp
 
 ...and it was......
 
-<iframe src="https://giphy.com/embed/BCs20EzQnYRXi" width="480" height="270" frameBorder="0"   class="giphy-embed" allowFullScreen></iframe><p><a style="font-size:10px" href="https://giphy.com/gifs/california-san-francisco-transamerica-pyramid-BCs20EzQnYRXi">via GIPHY</a></p>
+![giphy (1)](https://user-images.githubusercontent.com/112824189/199121870-be39196d-d9ca-4a11-80c5-868cff17642f.gif)
+
 
 
 
