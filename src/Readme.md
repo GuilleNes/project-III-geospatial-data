@@ -97,7 +97,10 @@ fun.mapping_results(df_CA, CA_map)
 fun.mapping_results(df_CH, CH_map)
 ```
 
-![Seattle](https://github.com/GuilleNes/project-III-geospatial-data/blob/main/images/Seattle_map.png))
+
+![Seattle](https://github.com/GuilleNes/project-III-geospatial-data/blob/main/images/Seattle_map.png)
+
+
 
 ![Supersonics](https://giphy.com/gifs/l46C9VsWTWD9CHocg)
 
