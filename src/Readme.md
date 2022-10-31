@@ -97,6 +97,9 @@ fun.mapping_results(df_CA, CA_map)
 fun.mapping_results(df_CH, CH_map)
 ```
 
+![Seattle](https://github.com/GuilleNes/project-III-geospatial-data/blob/main/images/Seattle.jpg)
+
+[MAP](https://guillenes.github.io./)
 
 
 <iframe id="inlineFrameExample"
