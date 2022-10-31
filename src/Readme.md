@@ -97,9 +97,18 @@ fun.mapping_results(df_CA, CA_map)
 fun.mapping_results(df_CH, CH_map)
 ```
 
-![Seattle](https://github.com/GuilleNes/project-III-geospatial-data/blob/main/images/Seattle_map.html))
+![Seattle](https://github.com/GuilleNes/project-III-geospatial-data/blob/main/images/Seattle_map.png))
 
-![Supersonics](https://giphy.com/gifs/3o7qDMjkAZ2RwFvDaw)
+![Supersonics](https://giphy.com/gifs/l46C9VsWTWD9CHocg)
+
+Finally, in order to to get the final result for each city, we just apply a simple math formulation to the grouped data for each city. To this calculation we multiplied the value of the wheight of each category to get the final selected city.
+
+
+
+...and it was......
+
+![San Francisco](https://giphy.com/gifs/california-san-francisco-transamerica-pyramid-BCs20EzQnYRXi)
+
 
 
 
