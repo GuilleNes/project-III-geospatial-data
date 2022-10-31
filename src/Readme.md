@@ -98,11 +98,14 @@ fun.mapping_results(df_CH, CH_map)
 ```
 
 
-![Seattle](https://github.com/GuilleNes/project-III-geospatial-data/blob/main/images/Seattle_map.png)
 
-
-
-![Supersonics](https://giphy.com/gifs/l46C9VsWTWD9CHocg)
+<iframe id="inlineFrameExample"
+    title="Inline Frame Example"
+    width="600"
+    height="400"
+    src="https://guillenes.github.io./">
+</iframe>
+<iframe src="https://giphy.com/embed/l46C9VsWTWD9CHocg" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/l46C9VsWTWD9CHocg" style="font-size:10px">via GIPHY</a></p>
 
 Finally, in order to to get the final result for each city, we just apply a simple math formulation to the grouped data for each city. To this calculation we multiplied the value of the wheight of each category to get the final selected city.
 
@@ -110,7 +113,7 @@ Finally, in order to to get the final result for each city, we just apply a simp
 
 ...and it was......
 
-![San Francisco](https://giphy.com/gifs/california-san-francisco-transamerica-pyramid-BCs20EzQnYRXi)
+<iframe src="https://giphy.com/embed/BCs20EzQnYRXi" width="480" height="270" frameBorder="0"   class="giphy-embed" allowFullScreen></iframe><p><a style="font-size:10px" href="https://giphy.com/gifs/california-san-francisco-transamerica-pyramid-BCs20EzQnYRXi">via GIPHY</a></p>
 
 
 
