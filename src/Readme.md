@@ -99,7 +99,7 @@ fun.mapping_results(df_CH, CH_map)
 
 ![Seattle](https://github.com/GuilleNes/project-III-geospatial-data/blob/main/images/Seattle.jpg)
 
-[INTERACTIVE MAP](https://guillenes.github.io./)
+[CLICK HERE TO ACCESS THE INTERACTIVE MAP OF SEATTLE](https://guillenes.github.io./)
 
 
 ![giphy](https://user-images.githubusercontent.com/112824189/199121838-f8ecd2ac-9694-49da-b0aa-ac59b4a81428.gif)
