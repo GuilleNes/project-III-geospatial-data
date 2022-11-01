@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 import pandas as pd
 import geopandas as gpd
 import geopy
-from folium import Choropleth, Circle, Marker, Icon, Map
+from folium import  Marker, Icon, Map
 from folium.plugins import HeatMap, MarkerCluster
 
 # We create a function to collect data from the offices column(country code, address, lat&long...).
@@ -221,7 +221,7 @@ def final_result(dfr, city):
 
 
 
-#------------------------------------------------------------------------- Mapping function
+#------------------------------------------------------------------------- Mapping functions
 
 
 

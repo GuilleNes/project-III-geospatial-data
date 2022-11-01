@@ -99,7 +99,8 @@ fun.mapping_results(df_CH, CH_map)
 
 ![Seattle](https://github.com/GuilleNes/project-III-geospatial-data/blob/main/images/Seattle.jpg)
 
-[CLICK HERE TO ACCESS THE INTERACTIVE MAP OF SEATTLE](https://guillenes.github.io./)
+[MAP](https://guillenes.github.io./)
+
 
 
 ![giphy](https://user-images.githubusercontent.com/112824189/199121838-f8ecd2ac-9694-49da-b0aa-ac59b4a81428.gif)
@@ -111,7 +112,6 @@ Finally, in order to to get the final result for each city, we just apply a simp
 ...and it was......
 
 ![giphy (1)](https://user-images.githubusercontent.com/112824189/199121870-be39196d-d9ca-4a11-80c5-868cff17642f.gif)
-
 
 
 
